@@ -1,6 +1,6 @@
 ---
 description: >-
-  In dit hoofdstuk leest u wie de opdracht gever is, wat de aanleiding was om te
+  In dit hoofdstuk leest u wie de opdracht gever is, wat de aanleiding is om te
   kiezen voor dit project, wat het probleem is en waarom ik heb gekozen voor
   mijn design challenge.
 ---
@@ -21,7 +21,7 @@ Tijdens mijn lange stage heb ik onderzoek gedaan naar het zitgedrag van Nederlan
 
 Het probleem is heel simpel. Nederlanders zitten te veel en dat is een probleem voor de gezondheid, maar ook voor de werkgevers. Uit recent onderzoek \(van Dommelen, Coffeng, Van der Ploeg, Van der Beek, Boot & Hendriksen, 2016\) kan geconcludeerd worden dat te veel zitten ernstig gevolgen heeft voor het menselijk lichaam. De gevolgen van te veel zitten en weinig bewegen kunnen leiden tot vroegtijdig overlijden, daarnaast wordt het ook geassocieerd met bepaalde kankersoorten, type 2 diabetes, obesitas en hartziekten. 
 
-Een aantal jaar geleden heeft Touchwonders een concept bedacht om dit probleem te verhelpen, maar het is nooit afgemaakt. Het doel van het huidige concept ligt vooral op stimuleren traplopen. Er is geen uitdaging in de applicatie en het heeft voor de doelgroep ook geen meerwaarde. Het enige wat de applicatie kan doen is trappen meten en koppelen aan mijlpalen zoals de toren van Pisa. 
+Een aantal jaar geleden heeft Touchwonders een concept bedacht om dit probleem te verhelpen, maar het is nooit afgemaakt. Het doel van het huidige concept ligt vooral op het stimuleren van traplopen. Er is geen uitdaging in de applicatie en het heeft voor de doelgroep ook geen meerwaarde. Het enige wat de applicatie kan doen is trappen meten en koppelen aan mijlpalen zoals de toren van Pisa. 
 
 Het Rijksinstituut voor Volksgezondheid en Milieu \(z.d.-b\) voorspeld de volgende ontwikkelingen voor sedentair gedrag. Nederlanders zullen langer productief moeten zijn vanwege de stijgende pensioenleeftijd. Ouderen zullen minder vrije tijd hebben en veel langer zittend bureauwerk doen. Dit betekent dat we over 20 jaar evenveel zullen zitten als vandaag de dag. Er is een toenemende aandacht voor gezondheid in het algemeen. Mensen worden zich meer bewust van het belang van lichamelijke activiteit. Door nieuwe technologische ontwikkelingen wordt er voor gezorgd dat we steeds minder hoeven te bewegen en dat we veel werk zittend kunnen verrichten. Als tegenreactie wilt het Rijksinstituut technologie inzetten om mensen aan te moedigen om meer te gaan bewegen. Technologie vormt zowel een kans als een bedreiging voor sedentair gedrag. 
 
