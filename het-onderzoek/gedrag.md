@@ -1,4 +1,8 @@
 # Gedrag
 
-Uit mijn onderzoek 'A day in the life' kan ik concluderen dat de gemiddelde gebruiker die niet heel erg actief het ontzettend moeilijk vindt om over de drempel te stappen richting een gezonder leven. Het was voor de gebruiker heel zwaar om de trap naar boven te nemen bij het treinstation. Toen de gebruiker eindelijk boven was, was ze heel erg buiten adem. Het is een gewoonte van de gebruiker geworden om altijd de lift te nemen, maar ik heb wel gemerkt dat als ze in een omgeving zou zijn waar mensen allemaal de trap zouden nemen al is het maar twee trappen dan zou ze ook meedoen. Het systeem van belonen voor goed gedrag zou denk ik wel werken voor haar doelgroep. Ik kan dit alleen bevestigen door het daadwerkelijk te testen, maar dit gaat in deze project niet meer lukken. Ik heb ervoor gekozen om een day in the life te doen omdat ik wil weten hoe het leven eruit ziet van een gebruiker die niet heel erg actief is in het dagelijkse leven. Voor verdere toelichting van mijn onderzoek verwijs ik u naar mijn **Productbiografie op pagina \[..\].**
+Uit het onderzoek 'A day in the life' kan geconcludeerd worden dat de gebruiker die gevolgd werd het moeilijk vind om over de drempel te stappen richting een gezonder leven. De persoon die gevolgd werd is een roker en zit lang achter een bureau. De gebruiker is heel snel buiten adem als ze twee verdiepingen omhoog moet. De gebruiker neemt liever de lift, omdat dit minder energie kost voor haar. Maar wanneer ze aangemoedigd wordt om de trap te nemen dan gaat ze ook mee om de trap te nemen. 
+
+Het systeem van belonen voor goed gedrag zou denk ik wel werken voor haar doelgroep. Er is gekozen om een day in the life te doen zodat erachter gekomen kan worden hoe het leven eruit ziet van een gebruiker die niet heel erg actief is in het dagelijkse leven. Voor verdere toelichting van mijn onderzoek verwijs ik u naar mijn **Productbiografie op pagina \[..\].**
+
+\*\*\*\*
 
