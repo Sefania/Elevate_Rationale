@@ -33,5 +33,5 @@ De usability van het prototype werd getest in de usability lab van CMD Amsterdam
 
 ## Expert review
 
-\[moet nog uitgevoerd worden\]
+UX designer Nadine Popping heeft het concept van Elevate geëvalueerd. Ze heeft inhoudelijk feedback gegeven op het concept. In haar review heeft ze geschreven dat ze het idee om de mijlpalen te koppelen met de challenges een goed idee vindt. De data inhoudelijk maken voor de gebruiker zal volgens haar de gebruiker nog meer motiveren om door te gaan met traplopen op kantoor. Ze heeft ook tips gegeven op het visual design van de applicatie. Voor een uitgebreide toelichting over haar feedback verwijs ik u naar het **productbiografie op pagina \[..\].**
 
