@@ -6,11 +6,11 @@ Om het concept te valideren is er gesproken met mensen uit de doelgroep. Aan hun
 
 ### Inzichten
 
-Uit de gesprekken met de doelgroep kan geconcludeerd worden dat ze het een aantrekkelijk concept vinden. De doelgroep heeft ook aangegeven dat het onderdeel waar ze collega's kunnen uitdagen heel erg leuk lijkt. Ze denken hiermee veel plezier te kunnen hebben. Een uitgebreide toelichting over de gesprekken vindt u in de **productbiografie op pagina \[..\]**
+Uit de gesprekken met de doelgroep kan geconcludeerd worden dat ze het een aantrekkelijk concept vinden. De doelgroep heeft ook aangegeven dat het onderdeel waar ze collega's kunnen uitdagen heel erg leuk lijkt. Ze denken hiermee veel plezier te kunnen hebben. In de productbiografie bij het hoofdstuk 'notities gesprekken' vindt u de notities van de gesprekken.
 
 ## Usability
 
-De usability van het prototype werd getest in de usability lab van CMD Amsterdam. Er is hiervoor gekozen, omdat het lab de juiste software en materialen heeft om dit onderzoek uit te voeren. 11 gebruikers hebben de prototype getest en feedback gegeven op de prototype. Voor een uitgebreide toelichting over de usability test verwijs ik u naar de **productbiografie op pagina \[..\].**
+De usability van het prototype werd getest in de usability lab van CMD Amsterdam. Er is hiervoor gekozen, omdat het lab de juiste software en materialen heeft om dit onderzoek uit te voeren. 11 gebruikers hebben de prototype getest en feedback gegeven op de prototype. Voor een toelichting over de usability test verwijs ik u naar de productbiografie bij  het hoofdstuk valideren.
 
 ### Inzichten
 
@@ -33,5 +33,5 @@ De usability van het prototype werd getest in de usability lab van CMD Amsterdam
 
 ## Expert review
 
-UX designer Nadine Popping heeft het concept van Elevate geëvalueerd. Ze heeft inhoudelijk feedback gegeven op het concept. In haar review heeft ze geschreven dat ze het idee om de mijlpalen te koppelen met de challenges een goed idee vindt. De data inhoudelijk maken voor de gebruiker zal volgens haar de gebruiker nog meer motiveren om door te gaan met traplopen op kantoor. Ze heeft ook tips gegeven op het visual design van de applicatie. Voor een uitgebreide toelichting over haar feedback verwijs ik u naar het **productbiografie op pagina \[..\].**
+UX designer Nadine Popping heeft het concept van Elevate geëvalueerd. Ze heeft inhoudelijk feedback gegeven op het concept. In haar review heeft ze geschreven dat ze het idee om de mijlpalen te koppelen met de challenges een goed idee vindt. De data inhoudelijk maken voor de gebruiker zal volgens haar de gebruiker nog meer motiveren om door te gaan met traplopen op kantoor. Ze heeft ook tips gegeven op het visual design van de applicatie. Voor toelichting over haar feedback verwijs ik u naar het productbiografie bij het hoofdstuk 'expert review'.
 
