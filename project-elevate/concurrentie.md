@@ -1,12 +1,14 @@
 ---
-description: Hier leest u wie de concurrenten zijn van Elevate.
+description: >-
+  Hier leest u wie de concurrenten zijn van Elevate en waarom hun producten
+  beter zijn dan Elevate.
 ---
 
 # Concurrentieanalyse
 
 De best, good and bad practices methode is een methode van de CMD Method kaarten. Het is een handige tool om in kaart te brengen wat de verschillen zijn tussen de concurrenten en het product van de opdrachtgever. 
 
-Om het concurrentieonderzoek goed in kaart te brengen is er een matrix gemaakt om te weergeven op welke positie Elevate staat in tegenstelling tot de concurrenten. Zoals u in afbeelding ****6 kunt zien staat Elevate heel erg laag samen met een app die gemaakt is alleen voor het weergeven van data. Pedometer++ is een app die kan meten hoeveel stappen en trappen een gebruiker heeft gelopen. In vergelijking met andere concurrenten die wel hun gebruikers stimuleren om vaker te bewegen, staat Elevate op dezelfde plek als een applicatie die niet als doel heeft om de gebruikers op een interactieve manier te stimuleren. 
+Om het concurrentieonderzoek goed in kaart te brengen is er een matrix gemaakt om te weergeven op welke positie Elevate staat in tegenstelling tot de concurrenten. Een van de doelen van Elevate is om de gebruiker te motiveren door middel van een interactieve app. Zoals u in afbeelding ****6 kunt zien staat Elevate heel erg laag samen met een app die gemaakt is alleen voor het weergeven van data. Pedometer++ is een app die kan meten hoeveel stappen en trappen een gebruiker heeft gelopen. In vergelijking met andere concurrenten die wel hun gebruikers stimuleren om vaker te bewegen, staat Elevate op dezelfde plek als een applicatie die niet als doel heeft om de gebruikers op een interactieve manier te stimuleren. 
 
 ![Afbeelding 6](../.gitbook/assets/best-good-and-bad-practices.png)
 
