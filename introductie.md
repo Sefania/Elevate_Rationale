@@ -19,7 +19,7 @@ Tijdens mijn lange stage heb ik onderzoek gedaan naar het zitgedrag van Nederlan
 
 ## Het probleem
 
-Het probleem is heel simpel. Nederlanders zitten te veel en dat is een probleem voor de gezondheid, maar ook voor de werkgevers. Uit recent onderzoek \(van Dommelen, Coffeng, Van der Ploeg, Van der Beek, Boot & Hendriksen, 2016\) kan geconcludeerd worden dat te veel zitten ernstig gevolgen heeft voor het menselijk lichaam. De gevolgen van te veel zitten en weinig bewegen kunnen leiden tot vroegtijdig overlijden, daarnaast wordt het ook geassocieerd met bepaalde kankersoorten, type 2 diabetes, obesitas en hartziekten. 
+Het probleem is heel simpel. Nederlanders zitten te veel en dat is een probleem voor de gezondheid, maar ook voor de werkgevers. Uit recent onderzoek [\(van Dommelen, Coffeng, Van der Ploeg, Van der Beek, Boot & Hendriksen, 2016\)](https://app.gitbook.com/@s-sontoidjojo/s/productbiografie/designbrief/literatuur-onderzoek/gezondheid-onderzoek/gezondheid) kan geconcludeerd worden dat te veel zitten ernstig gevolgen heeft voor het menselijk lichaam. De gevolgen van te veel zitten en weinig bewegen kunnen leiden tot vroegtijdig overlijden, daarnaast wordt het ook geassocieerd met bepaalde kankersoorten, type 2 diabetes, obesitas en hartziekten. 
 
 Een aantal jaar geleden heeft Touchwonders een concept bedacht om dit probleem te verhelpen, maar het is nooit afgemaakt. Het doel van het huidige concept ligt vooral op het stimuleren van traplopen. Er is geen uitdaging in de applicatie en het heeft voor de doelgroep ook geen meerwaarde. Het enige wat de applicatie kan doen is trappen meten en koppelen aan mijlpalen zoals de toren van Pisa. 
 
@@ -29,7 +29,9 @@ Het Rijksinstituut voor Volksgezondheid en Milieu \(z.d.-b\) voorspeld de volgen
 
 ## De Design Challenge 
 
-_Hoe kan een digitale oplossing voor kantoormedewerkers, die meer dan 8 uur per dag zitten, helpen om op een interactieve en laagdrempelige manier te bewegen tijdens kantooruren door middel van gamification?_
+> **Hoe kan een digitale oplossing voor kantoormedewerkers, die meer dan 8 uur per dag zitten, helpen om op een interactieve en laagdrempelige manier te bewegen tijdens kantooruren door middel van gamification?**
 
-Ik heb mijn Design Challenge bewust open gehouden en ik heb het niet specifiek gemaakt, omdat ik mezelf de vrijheid wil geven om in de beginfase allerlei onderwerpen te onderzoeken die een oplossing kunnen zijn voor sedentair gedrag. Ik heb deze keuze gemaakt omdat ik als UX designer gebruikersonderzoek heel belangrijk vindt. Ik heb het hierbij niet over usability testing of concept testing, maar over het observeren en begrijpen van de doelgroep door interviews te doen en ze te observeren tijdens een normale werkdag. Het belangrijkste vind ik om erachter te komen wat mensen op kantoor echt meemaken. Ik wil begrijpen waarom ze vaak zitten en waarom ze zo weinig van hun bureau weg gaan om even hun benen te strekken. 
+Ik heb mijn Design Challenge bewust open gehouden en ik heb het niet specifiek gemaakt, omdat ik mezelf de vrijheid wil geven om in de beginfase allerlei onderwerpen te onderzoeken die een oplossing kunnen zijn voor sedentair gedrag. Ik heb deze keuze gemaakt omdat ik als UX designer gebruikersonderzoek heel belangrijk vindt. Ik heb het hierbij niet over usability testing of concept testing, maar over het observeren en begrijpen van de doelgroep door interviews te doen en ze te observeren tijdens een normale werkdag. Het belangrijkste vind ik om erachter te komen wat mensen op kantoor echt meemaken. Ik wil begrijpen waarom ze vaak zitten en waarom ze zo weinig van hun bureau weg gaan om even hun benen te strekken. Voor een uitgebreide toelichting waarom ik mijn design challenge heb gekozen verwijs ik u naar mijn productbiografie bij het hoofdstuk ['Designbrief voorbereiding'](https://app.gitbook.com/@s-sontoidjojo/s/productbiografie/designbrief/designbrief-voorbereiding). U kunt de design brief lezen in het hoofdstuk ['Designbrief PDF'](https://app.gitbook.com/@s-sontoidjojo/s/productbiografie/designbrief/designbrief-pdf).
+
+
 
