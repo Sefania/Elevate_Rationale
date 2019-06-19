@@ -2,7 +2,7 @@
 description: Hier leest u wie de concurrenten zijn van Elevate.
 ---
 
-# Concurrentie
+# Concurrentieanalyse
 
 De best, good and bad practices methode is een methode van de CMD Method kaarten. Het is een handige tool om in kaart te brengen wat de verschillen zijn tussen de concurrenten en het product van de opdrachtgever. 
 
@@ -10,7 +10,7 @@ Om het concurrentieonderzoek goed in kaart te brengen is er een matrix gemaakt o
 
 ![Afbeelding 6](../.gitbook/assets/best-good-and-bad-practices.png)
 
-Het doel van Elevate is om in dezelfde regio te staan als Fitbit en Stridekick. Deze twee applicatie zijn heel erg interactief en motiveren de gebruiker om meer te bewegen. Fitbit heeft een onderdeel in de app waar vrienden en familie hun fitness ervaringen kan delen, maar familie en vrienden kunnen de gebruiker uitdagen en andersom. Stridekick heeft ongeveer hetzelfde concept waarbij de gebruiker vrienden en familie kan uitdagen en daarnaast kan de gebruiker verschillende devices gebruiken voor de applicatie. Zoals de fitbit, Apple watch, Android, iPhone etc. Voor meer informatie over de best, good and bad practices inzichten verwijs ik u naar de productbiografie bij het hoofdstuk best, good and bad practices.
+Het doel van Elevate is om in dezelfde regio te staan als Fitbit en Stridekick. Deze twee applicatie zijn heel erg interactief en motiveren de gebruiker om meer te bewegen. Fitbit heeft een onderdeel in de app waar vrienden en familie hun fitness ervaringen kan delen, maar familie en vrienden kunnen de gebruiker uitdagen en andersom. Stridekick heeft ongeveer hetzelfde concept waarbij de gebruiker vrienden en familie kan uitdagen en daarnaast kan de gebruiker verschillende devices gebruiken voor de applicatie. Zoals de fitbit, Apple watch, Android, iPhone etc. Voor meer informatie over de best, good and bad practices inzichten verwijs ik u naar de productbiografie bij het hoofdstuk ['best, good and bad practices'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/onderzoeksmethodes/best-good-and-bad-practices).
 
-Dit doel kan behaald worden door gamification toe te voegen aan de applicatie. In het hoofdstuk 'Het concept' kunt u meer lezen over de concepten die bedacht zijn voor Elevate.
+Dit doel kan behaald worden door gamification toe te voegen aan de applicatie. In het hoofdstuk ['Het concept'](https://s-sontoidjojo.gitbook.io/designrationale/het-concept) kunt u meer lezen over de concepten die bedacht zijn voor Elevate.
 

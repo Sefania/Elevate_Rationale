@@ -5,7 +5,7 @@
 * [Introductie](introductie.md)
 * [Project Elevate](project-elevate/README.md)
   * [Gebruikersonderzoek](project-elevate/gebruikersonderzoek.md)
-  * [Concurrentie](project-elevate/concurrentie.md)
+  * [Concurrentieanalyse](project-elevate/concurrentie.md)
   * [Field trial](project-elevate/interviews.md)
 * [Het onderzoek](het-onderzoek/README.md)
   * [Gezondheid](het-onderzoek/gezondheid.md)
