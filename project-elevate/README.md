@@ -35,7 +35,7 @@ De gebruikers van de applicatie zijn alle medewerkers van een bedrijf die gezond
 
 #### Doelgroep segmenten
 
-De doelgroep is verdeeld in drie segmenten: bedrijven, HR managers en kantoormedewerkers. Er is voor iedere segment een persona gemaakt om de doelgroep duidelijk te weergeven. De persona’s zijn gebaseerd op de interviews die zijn afgenomen en literatuur onderzoek die uitgevoerd is via het internet. Bij afbeelding 3 ziet u de persona van de gebruiker. U kunt de persona’s van de andere segmenten vinden in het productbiografie bij het hoofdstuk persona. 
+De doelgroep is verdeeld in drie segmenten: bedrijven, HR managers en kantoormedewerkers. Er is voor iedere segment een persona gemaakt om de doelgroep duidelijk te weergeven. De persona’s zijn gebaseerd op de interviews die zijn afgenomen en literatuur onderzoek die uitgevoerd is via het internet. Bij afbeelding 3 ziet u de persona van de gebruiker. U kunt de persona’s van de andere segmenten vinden in de productbiografie bij het hoofdstuk persona. 
 
 De doelgroep is specifieker gemaakt door te focussen op kantoormedewerkers, die graag actiever willen zijn tijdens kantooruren. Deze doelgroep is meer open voor verandering dan een groep die niet graag actief is. Uiteindelijk is het belangrijk om ook te focussen op de minder actieve medewerkers, maar voor dit project is het beter om eerst op één doelgroep te focussen, zodat het product haalbaar is. 
 

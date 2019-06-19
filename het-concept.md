@@ -6,9 +6,9 @@ description: Hier leest u wat het concept van Elevate is geworden.
 
 ## Ideation
 
-Om tot verschillende concepten te komen heb ik twee ideation sessies gehouden. Een sessie was met mijn medestudenten en de tweede sessie was met het team van Touchwonders. De sessie met mijn medestudenten heb ik de SCAMPER methode gebruikt om ideeën te genereren. Voor de resultaten van deze sessie verwijs ik u graag naar mijn productbiografie bij het hoofdstuk 'ideation'. 
+Om tot verschillende concepten te komen heb ik twee ideation sessies gehouden. Een sessie was met mijn medestudenten en de tweede sessie was met het team van Touchwonders. De sessie met mijn medestudenten heb ik de SCAMPER methode gebruikt om ideeën te genereren. Voor de resultaten van deze sessie verwijs ik u graag naar de productbiografie bij het hoofdstuk[ 'ideation'](https://s-sontoidjojo.gitbook.io/productbiografie/fase-2/ideation). 
 
-De 3 concepten heb ik gepresenteerd tijdens de feedback presentatie. De poster en de feedback op mijn presentatie kunt u vinden in mijn productbiografie bij het hoofdstuk 'feedback frenzy'. 
+De 3 concepten heb ik gepresenteerd tijdens de feedback presentatie. De poster en de feedback op mijn presentatie kunt u vinden in de productbiografie bij het hoofdstuk ['feedback frenzy'](https://s-sontoidjojo.gitbook.io/productbiografie/fase-2/feedback-frenzy). 
 
 Via een survey heb ik aan de doelgroep gevraagd welke concept hun voorkeur heeft. Uit de survey is gebleken dat de doelgroep een sterk voorkeur heeft voor het concept sparen. Deze resultaten heb ik meegenomen in mijn keuze voor het concept van Elevate.    
 
@@ -32,9 +32,9 @@ Dit concept is voor gebruikers die graag dingen sparen om een spel uit te breide
 
 ## De applicatie
 
-Elevate wordt een mobiele applicatie die gebruikers zal motiveren om minder te zitten en meer te bewegen. De gebruiker zal op een positieve manier gestimuleerd worden. Uit het onderzoek van Sharot, die u kunt lezen bij het hoofdstuk 'gedrag onderzoek' van mijn productbiografie ****is gebleken dat het meest effectieve manier om gedrag te veranderen is om elke kleine stap te belonen met bijvoorbeeld complimenten. Tijdens de field trial is gebleken dat collega's erg competitief kunnen zijn met elkaar en ze vinden het gamification aspect heel erg leuk. 
+Elevate wordt een mobiele applicatie die gebruikers zal motiveren om minder te zitten en meer te bewegen. De gebruiker zal op een positieve manier gestimuleerd worden. Uit het onderzoek van Sharot, die u kunt lezen bij het hoofdstuk ['gedrag onderzoek'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/gedrag-onderzoek) van de productbiografie ****is gebleken dat het meest effectieve manier om gedrag te veranderen is om elke kleine stap te belonen met bijvoorbeeld complimenten. Tijdens de field trial is gebleken dat collega's erg competitief kunnen zijn met elkaar en ze vinden het gamification aspect heel erg leuk. 
 
-Aan de hand van mijn inzichten heb ik een programma van eisen opgesteld voor het product. Dit kunt u vinden in mijn productbiografie bijhet hoofdstuk 'programma van eisen'. 
+Aan de hand van mijn inzichten heb ik een programma van eisen opgesteld voor het product. Dit kunt u vinden in de productbiografie bij het hoofdstuk ['programma van eisen'.](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/tools/programma-van-eisen) 
 
 De gebruiker kan in de app zien hoeveel trappen ze hebben gelopen, daarnaast kunnen ze ook zichzelf uitdagen door een persoonlijke challenge te beginnen. Als ze de challenge binnen een bepaalde periode is behaald dan krijgt de gebruiker een digitale beloning in de vorm van punten. Deze punten kan de gebruiker sparen om vervolgens een beloning mee te kopen. Er kan nu niet besloten worden wat voor beloningen worden aangeboden, omdat dit in overleg moet gebeuren met de klanten van Elevate.
 
@@ -52,7 +52,7 @@ Uit de interviews hebben de gebruikers aangegeven dat ze willen zien of ze progr
 
 ### Challenges
 
-Gebruikers hebben aangegeven dat ze het concept van Elevate leuk vinden, maar ze missen nog meer uitdaging. Om dit op te lossen is er bedacht dat de gebruikers collega's kunnen uitdagen om trappen te lopen. Dit is bedacht omdat er tijdens de interviews is aangegeven door de gebruikers dat ze erg competitief zijn met gebruikers. Dit is daarna nog een keer bevestigt door middel van een survey. De resultaten van de survey kunt u lezen in de productbiografie bij het hoofdstuk 'survey'. 
+Gebruikers hebben aangegeven dat ze het concept van Elevate leuk vinden, maar ze missen nog meer uitdaging. Om dit op te lossen is er bedacht dat de gebruikers collega's kunnen uitdagen om trappen te lopen. Dit is bedacht omdat er tijdens de interviews is aangegeven door de gebruikers dat ze erg competitief zijn met gebruikers. Dit is daarna nog een keer bevestigt door middel van een survey. De resultaten van de survey kunt u lezen in de productbiografie bij het hoofdstuk ['survey'](https://s-sontoidjojo.gitbook.io/productbiografie/fase-2/survey). 
 
 De gebruiker kan kiezen om een nieuwe challenge aan te maken in de app. Ze kunnen in de app kiezen welke collega ze willen uitdagen. Vervolgens moet de gebruiker bepalen hoeveel trappen ze gaan lopen. De app zal het aantal ingestelde trappen proberen te koppelen met 1 van de mijlpalen hiermee komt de mijlpaal pattern terug. Wanneer de gebruiker alles heeft ingesteld wordt er een uitnodiging verzonden naar de collega. De collega kan de challenge accepteren of weigeren. 
 
