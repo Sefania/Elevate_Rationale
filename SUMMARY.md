@@ -10,6 +10,7 @@
 ## Onderzoek
 
 * [Elevate: Huidige situatie](onderzoek/project-elevate.md)
+* [Stakeholders](onderzoek/stakeholders.md)
 * [Field trial](onderzoek/interviews.md)
 * [Gebruikersonderzoek](onderzoek/gebruikersonderzoek.md)
 * [Concurrentieanalyse](onderzoek/concurrentie.md)
