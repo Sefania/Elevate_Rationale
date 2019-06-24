@@ -21,6 +21,7 @@
 ## Concept
 
 * [Het concept](concept/het-concept.md)
+* [Elevate](concept/elevate.md)
 * [Validatie](concept/validatie.md)
 
 ## Conclusie
