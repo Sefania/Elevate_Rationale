@@ -1,6 +1,6 @@
 ---
 description: >-
-  Hier licht ik toe welke tools ik heb gebruikt om de wensen en behoeftes van de
+  Hier leest u welke tools ik heb gebruikt om de wensen en behoeftes van de
   doelgroep beter te begrijpen.
 ---
 

@@ -1,4 +1,14 @@
+---
+description: >-
+  Een field trial is een methode die gebruikt wordt om een beta versie van een
+  app te testen. Het is een waardevolle methode om eerlijke feedback te krijgen.
+---
+
 # Field trial
+
+![](../.gitbook/assets/field-trial-card.png)
+
+ 
 
 Aan het begin van de afstudeerproject is een field trial gestart met een aantal gebruikers uit de doelgroep. Ze werken in een deelpand maar elk persoon werkt voor een ander bedrijf en iedereen heeft een andere functie. In de testgroep is er een office manager, marketing manager, developers en een paar leidinggevende. Er is bewust gekozen om de interviews pas te doen na de field trial, omdat het eerste indruk van de applicatie gemeten moest worden maar ook de ervaring nadat de gebruiker het een tijdje heeft gebruikt. 
 

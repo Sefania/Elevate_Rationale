@@ -1,3 +1,9 @@
+---
+description: >-
+  Hier leest u welke methodes zijn gebruikt om het gedrag van de doelgroep te
+  begrijpen.
+---
+
 # Gedrag
 
 ## **A day in the life**
