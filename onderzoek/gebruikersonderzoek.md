@@ -14,11 +14,11 @@ Uit de gesprekken kan ook geconcludeerd worden dat mensen voor 1 of 2 verdieping
 
 Als u de notities wilt lezen over mijn observaties dan verwijs ik u naar de productbiografie bij het hoofdstuk ['notities gesprekken'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/onderzoeksmethodes/notities-gesprekken) en ['fly on the wall'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/gedrag-onderzoek/fly-on-the-wall).
 
-![Afbeelding 4](../../.gitbook/assets/empathy-map-1.0.png)
+![Afbeelding 4](../.gitbook/assets/empathy-map-1.0.png)
 
 De Customer Journey Map is een methode die wordt gebruikt om de journey van de gebruiker in kaart te brengen. Dit creëert een overzicht van alles wat de doelgroep doet en denkt zoals de pijnpunten, gedachtes, touchpoints en kansen. De CJM is gebaseerd op de ervaringen van de doelgroep tijdens de Field trial. Zie afbeelding 5 voor de CJM.
 
-![Afbeelding 5](../../.gitbook/assets/cjm-elevate-1.0.png)
+![Afbeelding 5](../.gitbook/assets/cjm-elevate-1.0.png)
 
 Zoals u kunt zien op ****afbeelding 5 verlopen de eerste stappen van de applicatie naar wens. Het gaat mis wanneer de gebruiker het gevoel heeft dat er geen uitdaging meer is. De gebruiker mist een stukje interactie in de app.  Dit heeft de doelgroep ook aangegeven in de interviews, dit kun u lezen in de productbiografie bij het hoofdstuk ['field trial interviews'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/field-trial/field-trial-interviews). 
 

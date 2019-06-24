@@ -9,18 +9,19 @@
 
 ## Onderzoek
 
-* [Project Elevate](onderzoek/project-elevate/README.md)
-  * [Gebruikersonderzoek](onderzoek/project-elevate/gebruikersonderzoek.md)
-  * [Concurrentieanalyse](onderzoek/project-elevate/concurrentie.md)
-  * [Field trial](onderzoek/project-elevate/interviews.md)
-  * [Gezondheid](onderzoek/project-elevate/gezondheid.md)
-  * [Technologie](onderzoek/project-elevate/technologie.md)
-  * [Gedrag](onderzoek/project-elevate/gedrag.md)
-  * [Design](onderzoek/project-elevate/design.md)
+* [Elevate: Huidige situatie](onderzoek/project-elevate.md)
+* [Field trial](onderzoek/interviews.md)
+* [Gebruikersonderzoek](onderzoek/gebruikersonderzoek.md)
+* [Concurrentieanalyse](onderzoek/concurrentie.md)
+* [Gezondheid](onderzoek/gezondheid.md)
+* [Technologie](onderzoek/technologie.md)
+* [Gedrag](onderzoek/gedrag.md)
+* [Design](onderzoek/design.md)
 
 ## Concept
 
-* [Het concept](concept/het-concept.md)
+* [Concepten](concept/het-concept.md)
+* [Elevate](concept/elevate.md)
 * [Validatie](concept/validatie.md)
 
 ## Conclusie
