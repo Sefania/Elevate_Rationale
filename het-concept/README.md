@@ -34,7 +34,7 @@ Dit concept is voor gebruikers die graag dingen sparen om een spel uit te breide
 
 Elevate wordt een mobiele applicatie die gebruikers zal motiveren om minder te zitten en meer te bewegen. De gebruiker zal op een positieve manier gestimuleerd worden. Uit het onderzoek van Sharot, die u kunt lezen bij het hoofdstuk ['gedrag onderzoek'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/gedrag-onderzoek) van de productbiografie ****is gebleken dat het meest effectieve manier om gedrag te veranderen is om elke kleine stap te belonen met bijvoorbeeld complimenten. Tijdens de field trial is gebleken dat collega's erg competitief kunnen zijn met elkaar en ze vinden het gamification aspect heel erg leuk. 
 
-Aan de hand van mijn inzichten heb ik een programma van eisen opgesteld voor het product. Dit kunt u vinden in de productbiografie bij het hoofdstuk ['programma van eisen'.](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/tools/programma-van-eisen) 
+Aan de hand van de inzichten is er een programma van eisen opgesteld voor het product. Dit kunt u vinden in de productbiografie bij het hoofdstuk ['programma van eisen'.](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/tools/programma-van-eisen) 
 
 De gebruiker kan in de app zien hoeveel trappen ze hebben gelopen, daarnaast kunnen ze ook zichzelf uitdagen door een persoonlijke challenge te beginnen. Als ze de challenge binnen een bepaalde periode is behaald dan krijgt de gebruiker een digitale beloning in de vorm van punten. Deze punten kan de gebruiker sparen om vervolgens een beloning mee te kopen. Er kan nu niet besloten worden wat voor beloningen worden aangeboden, omdat dit in overleg moet gebeuren met de klanten van Elevate.
 

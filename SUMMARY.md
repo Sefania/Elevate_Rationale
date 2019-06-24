@@ -12,7 +12,8 @@
   * [Technologie](het-onderzoek/technologie.md)
   * [Gedrag](het-onderzoek/gedrag.md)
   * [Design](het-onderzoek/design.md)
-* [Het concept](het-concept.md)
+* [Het concept](het-concept/README.md)
+  * [ELEVATE](het-concept/elevate.md)
 * [Validatie](validatie.md)
 * [Aanbeveling](aanbeveling.md)
 
