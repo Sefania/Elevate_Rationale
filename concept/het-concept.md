@@ -4,9 +4,9 @@ description: Hier leest u wat het concept van Elevate is geworden.
 
 # Concepten
 
-Om tot verschillende concepten te komen zijn er twee ideation sessies georganiseerd. Één sessie was met medestudenten en de tweede sessie was met het team van Touchwonders. De sessie met de medestudenten, is de SCAMPER methode gebruikt om ideeën te genereren. Voor de resultaten van deze sessie verwijs ik u graag naar de productbiografie bij het hoofdstuk[ 'ideation'](https://s-sontoidjojo.gitbook.io/productbiografie/fase-2/ideation). 
+Om tot verschillende concepten te komen zijn er twee ideation sessies georganiseerd. Één sessie was met medestudenten en de tweede sessie was met het team van Touchwonders. De sessie met de medestudenten, is de SCAMPER methode gebruikt om ideeën te genereren. Voor de resultaten van deze sessie verwijs ik u graag naar de productbiografie bij het hoofdstuk[ 'ideation met studenten'](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/ideation-medestudenten) en ['ideation met Touchwonders'](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/ideation-team-touchwonders). 
 
-De 3 concepten zijn gepresenteerd tijdens de feedback presentatie. De poster en de feedback op de presentatie kunt u vinden in de productbiografie bij het hoofdstuk ['feedback frenzy'](https://s-sontoidjojo.gitbook.io/productbiografie/fase-2/feedback-frenzy). 
+De 3 concepten zijn gepresenteerd tijdens de feedback presentatie. De poster en de feedback op de presentatie kunt u vinden in de productbiografie bij het hoofdstuk ['feedback frenzy'](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/feedback-frenzy). 
 
 Via een [survey](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/survey) is er aan de doelgroep gevraagd welke concept hun voorkeur heeft. Uit de survey is gebleken dat de doelgroep een sterk voorkeur heeft voor het concept sparen. Deze resultaten zijn meegenomen in de keuze voor het concept van Elevate.    
 

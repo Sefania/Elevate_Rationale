@@ -12,7 +12,7 @@ Een ander belangrijk stakeholder van Elevate zijn de mensen die verantwoordelijk
 
 ![Afbeelding 2](../.gitbook/assets/stakeholder-map-3.0.png)
 
-De gebruikers van de applicatie zijn alle medewerkers van een bedrijf die gezonder willen zijn of meer willen bewegen op kantoor. Nederlanders zijn allemaal onbewust bezig met te lang zitten. Sommige mensen die zijn geïnterviewd zijn zich ervan bewust dat ze te veel zitten, maar ze hebben ook gezegd, dat ze soms zo gefocust zijn dat ze vergeten hoe lang ze hebben gezeten totdat ze naar de tijd kijken. Elevate kan hier een goede oplossing voor zijn. De gebruikers kunnen op een laagdrempelige manier aan hun gezondheid werken en stress verminderen. [Baeten \(2017\)](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/literatuur-onderzoek/gezondheid-onderzoek/bewegen-tegen-een-burn-out-of-stress) concludeert in recent onderzoek dat bewegen stress vermindert. Matig intensief bewegen herstelt de hippocampus, waardoor de geheugenfunctie en het concentratievermogen weer verbeterd. Dus even weg gaan van je bureau om een verdieping of twee omhoog te gaan kan stress verlagen. 
+De gebruikers van de applicatie zijn alle medewerkers van een bedrijf die gezonder willen zijn of meer willen bewegen op kantoor. Nederlanders zijn allemaal onbewust bezig met te lang zitten. Sommige mensen die zijn geïnterviewd zijn zich ervan bewust dat ze te veel zitten, maar ze hebben ook gezegd, dat ze soms zo gefocust zijn dat ze vergeten hoe lang ze hebben gezeten totdat ze naar de tijd kijken. Elevate kan hier een goede oplossing voor zijn. De gebruikers kunnen op een laagdrempelige manier aan hun gezondheid werken en stress verminderen. [Baeten \(2017\)](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/literatuur-onderzoek/gezondheid-onderzoek/bewegen-tegen-een-burn-out-of-stress) concludeert in recent onderzoek dat bewegen stress vermindert. Matig intensief bewegen herstelt de hippocampus, waardoor de geheugenfunctie en het concentratievermogen weer verbeterd. Dus even weg gaan van je bureau om een verdieping of twee omhoog te gaan kan stress verlagen. 
 
 #### Doelgroep segmenten
 
@@ -26,7 +26,7 @@ De doelgroep is specifieker gemaakt door te focussen op kantoormedewerkers, die 
 
 De persona van de gebruiker heet Rin en ze is 30 jaar oud. Ze werkt als een designer bij een agency in Amsterdam. Elk project waar ze aan werkt heeft een deadline waar ze zich aan moet houden. Ze wilt graag meer actief zijn maar heeft na haar werk geen tijd om te sporten, omdat ze boodschappen moet doen en thuis zelf moet koken. Rin kan goed gebruik maken van Elevate, omdat het een laagdrempelige manier is van bewegen tijdens kantooruren en dit zal niet in de weg staan van haar werk. 
 
-Persona's van andere stakeholders kunt u vinden in de productbiografie bij het hoofdstuk[ 'Persona'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/tools/persona).
+Persona's van andere stakeholders kunt u vinden in de productbiografie bij het hoofdstuk[ 'Persona'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/persona).
 
 
 

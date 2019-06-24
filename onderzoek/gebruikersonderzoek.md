@@ -12,7 +12,7 @@ Aan deze doelgroep werd ook gevraagd of ze de trap namen of de lift, daarnaast w
 
 Uit de gesprekken kan ook geconcludeerd worden dat mensen voor 1 of 2 verdiepingen het niet erg vinden om de trap te nemen, maar als het meer dan 2 verdiepingen zijn dan nemen ze liever de lift. In de Empathy map ziet u een beknopte overzicht van de meest interessante bevindingen. Hier kunt u ook een paar quotes lezen van de mensen met wie een gesprek is gevoerd.
 
-Als u de notities wilt lezen over mijn observaties dan verwijs ik u naar de productbiografie bij het hoofdstuk ['notities gesprekken'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/onderzoeksmethodes/notities-gesprekken) en ['fly on the wall'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/gedrag-onderzoek/fly-on-the-wall).
+Als u de notities wilt lezen over mijn observaties dan verwijs ik u naar de productbiografie bij het hoofdstuk ['notities gesprekken'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/notities-gesprekken) en ['fly on the wall'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/fly-on-the-wall).
 
 ![Afbeelding 4](../.gitbook/assets/empathy-map-1.0.png)
 
@@ -20,7 +20,7 @@ De Customer Journey Map is een methode die wordt gebruikt om de journey van de g
 
 ![Afbeelding 5](../.gitbook/assets/cjm-elevate-1.0.png)
 
-Zoals u kunt zien op ****afbeelding 5 verlopen de eerste stappen van de applicatie naar wens. Het gaat mis wanneer de gebruiker het gevoel heeft dat er geen uitdaging meer is. De gebruiker mist een stukje interactie in de app.  Dit heeft de doelgroep ook aangegeven in de interviews, dit kun u lezen in de productbiografie bij het hoofdstuk ['field trial interviews'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/field-trial/field-trial-interviews). 
+Zoals u kunt zien op ****afbeelding 5 verlopen de eerste stappen van de applicatie naar wens. Het gaat mis wanneer de gebruiker het gevoel heeft dat er geen uitdaging meer is. De gebruiker mist een stukje interactie in de app.  Dit heeft de doelgroep ook aangegeven in de interviews, dit kun u lezen in de productbiografie bij het hoofdstuk ['field trial interviews'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/field-trial/field-trial-interviews). 
 
 Deze inzichten bieden kansen zoals challenges toevoegen in de app waardoor de app meerwaarde krijgt voor de gebruiker en het uit kunnen dagen van collega's. Daarnaast moet de applicatie meer interactief zijn door sommige dingen zoals de mijlpalen klikbaar te maken en meer informatie te geven over de mijlpalen. Dit is gebaseerd op de suggesties van de doelgroep, waar bovenaan al aangegeven is dat het uit de interviews is gehaald.
 
