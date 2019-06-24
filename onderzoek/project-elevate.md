@@ -1,8 +1,5 @@
 ---
-description: >-
-  In dit hoofdstuk leest u wat Elevate is en wat het doel is van dit product.
-  Daarnaast leest u ook wie de stakeholders zijn en waarom ik heb gekozen voor
-  mijn doelgroep.
+description: In dit hoofdstuk leest u wat Elevate is en wat het doel is van dit product.
 ---
 
 # Elevate: Huidige situatie
