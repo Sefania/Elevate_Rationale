@@ -2,7 +2,7 @@
 
 ## De applicatie
 
-Elevate wordt een mobiele applicatie die gebruikers zal motiveren om minder te zitten en meer te bewegen. De gebruiker zal op een positieve manier gestimuleerd worden. Uit het onderzoek van Sharot, die u kunt lezen bij het hoofdstuk ['gedrag onderzoek'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/gedrag-onderzoek) van de productbiografie ****is gebleken dat het meest effectieve manier om gedrag te veranderen is om elke kleine stap te belonen met bijvoorbeeld complimenten. Tijdens de field trial is gebleken dat collega's erg competitief kunnen zijn met elkaar en ze vinden het gamification aspect heel erg leuk. 
+Elevate wordt een mobiele applicatie die gebruikers zal motiveren om minder te zitten en meer te bewegen. De gebruiker zal op een positieve manier gestimuleerd worden. Uit het onderzoek van Sharot, die u kunt lezen bij het hoofdstuk ['gedrag onderzoek'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/gedrag-onderzoek) van de productbiografie ****is gebleken dat het meest effectieve manier om gedrag te veranderen is om elke kleine stap te belonen met bijvoorbeeld complimenten. Tijdens de field trial is gebleken dat collega's erg competitief kunnen zijn met elkaar en ze vinden het gamification aspect heel erg motiverend. 
 
 Aan de hand van de inzichten is er een programma van eisen opgesteld voor het product. Dit kunt u vinden in de productbiografie bij het hoofdstuk ['programma van eisen'.](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/tools/programma-van-eisen) 
 
