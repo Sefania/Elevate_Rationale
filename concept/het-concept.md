@@ -4,13 +4,11 @@ description: Hier leest u wat het concept van Elevate is geworden.
 
 # Concepten
 
-## Ideation
-
 Om tot verschillende concepten te komen zijn er twee ideation sessies georganiseerd. Één sessie was met medestudenten en de tweede sessie was met het team van Touchwonders. De sessie met de medestudenten, is de SCAMPER methode gebruikt om ideeën te genereren. Voor de resultaten van deze sessie verwijs ik u graag naar de productbiografie bij het hoofdstuk[ 'ideation'](https://s-sontoidjojo.gitbook.io/productbiografie/fase-2/ideation). 
 
 De 3 concepten zijn gepresenteerd tijdens de feedback presentatie. De poster en de feedback op de presentatie kunt u vinden in de productbiografie bij het hoofdstuk ['feedback frenzy'](https://s-sontoidjojo.gitbook.io/productbiografie/fase-2/feedback-frenzy). 
 
-Via een survey is er aan de doelgroep gevraagd welke concept hun voorkeur heeft. Uit de survey is gebleken dat de doelgroep een sterk voorkeur heeft voor het concept sparen. Deze resultaten zijn meegenomen in de keuze voor het concept van Elevate.    
+Via een [survey](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/survey) is er aan de doelgroep gevraagd welke concept hun voorkeur heeft. Uit de survey is gebleken dat de doelgroep een sterk voorkeur heeft voor het concept sparen. Deze resultaten zijn meegenomen in de keuze voor het concept van Elevate.    
 
 ### Concept 1
 
@@ -29,6 +27,10 @@ Bij dit concept wordt de nadruk niet gelegd op weg gaan van je bureau en bewegen
 Dit concept draait het om consistent trappen lopen zodat je een plant kan groeien of een gebouw kan bouwen. Bij een x aantal trappen zijn er materialen beschikbaar om je gebouw uit te breiden of plant gerelateerde producten. 
 
 Dit concept is voor gebruikers die graag dingen sparen om een spel uit te breiden. Gebruikers die van avontuur spellen houden zoals Farmville. 
+
+## Definitief concept
+
+Tijdens de feedback frenzy hebben studenten en docenten feedback gegeven op de concepten van Elevate. Deze feedback kunt u terug lezen bij het hoofdstuk ['Feedback Frenzy'](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/feedback-frenzy). Aan de hand van de survey en feedback is er gekozen om concept 1 verder uit te werken. De doelgroep heeft aangegeven dat ze beloond willen worden voor traplopen en dat ze de beloning willen ontvangen door middel van spaarpunten. Dit is een duidelijk antwoord van de doelgroep en om deze reden is ervoor gekozen om concept 1 verder uit te werken. 
 
 
 

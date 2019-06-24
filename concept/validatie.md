@@ -6,7 +6,7 @@ Om het concept te valideren is er gesproken met mensen uit de doelgroep. Aan hun
 
 ### Inzichten
 
-Uit de gesprekken met de doelgroep kan geconcludeerd worden dat ze het een aantrekkelijk concept vinden. De doelgroep heeft ook aangegeven dat het onderdeel waar ze collega's kunnen uitdagen heel erg leuk lijkt. Ze denken hiermee veel plezier te kunnen hebben. In de productbiografie bij het hoofdstuk ['notities gesprekken'](https://s-sontoidjojo.gitbook.io/productbiografie/designbrief/onderzoeksmethodes/notities-gesprekken) vindt u de notities van de gesprekken.
+Uit de gesprekken met de doelgroep kan geconcludeerd worden dat ze het een aantrekkelijk concept vinden. De doelgroep heeft ook aangegeven dat het onderdeel waar ze collega's kunnen uitdagen heel erg leuk lijkt. Ze denken hiermee veel plezier te kunnen hebben.
 
 ## Usability
 
