@@ -1,18 +1,29 @@
 # Table of contents
 
-* [Voorwoord](README.md)
-* [Begrippenlijst](begrippenlijst.md)
-* [Introductie](introductie.md)
-* [Project Elevate](project-elevate/README.md)
-  * [Gebruikersonderzoek](project-elevate/gebruikersonderzoek.md)
-  * [Concurrentieanalyse](project-elevate/concurrentie.md)
-  * [Field trial](project-elevate/interviews.md)
-* [Het onderzoek](het-onderzoek/README.md)
-  * [Gezondheid](het-onderzoek/gezondheid.md)
-  * [Technologie](het-onderzoek/technologie.md)
-  * [Gedrag](het-onderzoek/gedrag.md)
-  * [Design](het-onderzoek/design.md)
-* [Het concept](het-concept.md)
-* [Validatie](validatie.md)
-* [Aanbeveling](aanbeveling.md)
+* [Elevate](README.md)
+
+## Inleiding
+
+* [Begrippenlijst](inleiding/begrippenlijst.md)
+* [Introductie](inleiding/introductie.md)
+
+## Onderzoek
+
+* [Project Elevate](onderzoek/project-elevate/README.md)
+  * [Gebruikersonderzoek](onderzoek/project-elevate/gebruikersonderzoek.md)
+  * [Concurrentieanalyse](onderzoek/project-elevate/concurrentie.md)
+  * [Field trial](onderzoek/project-elevate/interviews.md)
+  * [Gezondheid](onderzoek/project-elevate/gezondheid.md)
+  * [Technologie](onderzoek/project-elevate/technologie.md)
+  * [Gedrag](onderzoek/project-elevate/gedrag.md)
+  * [Design](onderzoek/project-elevate/design.md)
+
+## Concept
+
+* [Het concept](concept/het-concept.md)
+* [Validatie](concept/validatie.md)
+
+## Conclusie
+
+* [Aanbeveling](conclusie/aanbeveling.md)
 
