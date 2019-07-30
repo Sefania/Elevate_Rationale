@@ -5,7 +5,7 @@
 ## Inleiding
 
 * [Begrippenlijst](inleiding/begrippenlijst.md)
-* [Introductie](inleiding/introductie.md)
+* [Inleiding](inleiding/inleiding.md)
 
 ## Onderzoek
 
