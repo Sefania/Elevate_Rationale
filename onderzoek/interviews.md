@@ -6,7 +6,9 @@ description: In dit hoofdstuk wordt het probleem beschreven.
 
 ## Probleem
 
+De huidige versie van Elevate is getest door middel van een field trial onderzoek. Uit het onderzoek is gebleken dat de applicatie niet interactief genoeg is voor de gebruikers. De gebruiker heeft aangeven dat ze meer functies willen in de app. 
 
+Andere inzichten uit het onderzoek is dat de applicatie de gebruiker niet genoeg motiveert en het op dit moment geen meerwaarde heeft voor de gebruiker.
 
 ## Field trial onderzoek
 
