@@ -4,7 +4,7 @@ description: >-
   die ik heb onderzocht.
 ---
 
-# Technologie
+# Ideation onderzoek
 
 Elevate heeft al heel wat concurrentie in de app wereld. Er zijn al andere succesvolle apps die mensen motiveren om te bewegen, maar er zijn nog niet zoveel apps die specifiek zijn voor mensen op kantoor. Een paar apps die wel focussen op mensen die op kantoor werken zijn 'Stepjocky' en 'Fitcoins'. Zoals u in het hoofdstuk ['concurrentieanalyse'](https://s-sontoidjojo.gitbook.io/designrationale/onderzoek/concurrentie) heeft kunnen lezen kunt u meer informatie hierover vinden in de productbiografie op pagina ['best, good and bad practices](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/onderzoeksmethodes/best-good-and-bad-practices)'.
 

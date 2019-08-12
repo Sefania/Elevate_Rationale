@@ -14,7 +14,7 @@ In de matrix ziet u de meeteenheden 'interactief', 'minimale interactie', 'motiv
 
 Fitcoins gebruikt een spaarsysteem om gebruikers te motiveren, stepjockey gebruikt teamchallenges om de gebruikers te motiveren, stridekick gebruikt de community om gebruikers te motiveren en Fitbit heeft een hele uitgebreide app waar de gebruikers familie en vrienden kunnen uitdagen, maar ze kunnen ook zichzelf uitdagen door een persoonlijke coach te huren via de app. 
 
-![Afbeelding 6](../.gitbook/assets/best-good-and-bad-practices.png)
+![Afbeelding 6](../../.gitbook/assets/best-good-and-bad-practices.png)
 
 Een van de doelen van Elevate is om in dezelfde regio te staan als Fitbit en Stridekick. Deze twee applicatie zijn heel erg interactief en motiveren de gebruiker om meer te bewegen. Fitbit heeft een onderdeel in de app waar vrienden en familie hun fitness ervaringen kan delen, maar familie en vrienden kunnen de gebruiker uitdagen en andersom. Stridekick heeft ongeveer hetzelfde concept waarbij de gebruiker collega's kan uitdagen en daarnaast kan de gebruiker verschillende devices gebruiken voor de applicatie. Zoals de fitbit, Apple watch, Android, iPhone etc. Voor meer informatie over de best, good and bad practices inzichten verwijs ik u naar de productbiografie bij het hoofdstuk ['best, good and bad practices'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/onderzoeksmethodes/best-good-and-bad-practices). 
 
