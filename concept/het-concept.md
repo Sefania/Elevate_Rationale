@@ -2,35 +2,28 @@
 description: Hier leest u wat het concept van Elevate is geworden.
 ---
 
-# Concepten
+# Concept
 
-Om tot verschillende concepten te komen zijn er twee ideation sessies georganiseerd. Één sessie was met medestudenten en de tweede sessie was met het team van Touchwonders. De sessie met de medestudenten, is de SCAMPER methode gebruikt om ideeën te genereren. Voor de resultaten van deze sessie verwijs ik u graag naar de productbiografie bij het hoofdstuk[ 'ideation met studenten'](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/ideation-medestudenten) en ['ideation met Touchwonders'](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/ideation-team-touchwonders). 
+Elevate is een applicatie die gebruikers zal motiveren om vaker de trap te nemen. Het doel van de app is om de werknemers meer te laten bewegen tijdens werk. Meer bewegen tijdens werk heeft voordelen voor de gebruiker, omdat hun gezondheid verbeterd. De werkgever heeft hier ook baat bij, omdat werknemers die gezonder zijn minder vaak ziek zullen zijn.
 
-De 3 concepten zijn gepresenteerd tijdens de feedback presentatie. De poster en de feedback op de presentatie kunt u vinden in de productbiografie bij het hoofdstuk ['feedback frenzy'](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/feedback-frenzy). 
+#### Wie is de gebruiker?
 
-Via een [survey](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/survey) is er aan de doelgroep gevraagd welke concept hun voorkeur heeft. Uit de survey is gebleken dat de doelgroep een sterk voorkeur heeft voor het concept sparen. Deze resultaten zijn meegenomen in de keuze voor het concept van Elevate.    
+De applicatie is voor werknemers die op kantoor werken en meer dan 8 uur per dag zitten achter hun bureau. 
 
-### Concept 1
+#### Wat kunnen gebruikers doen met de app?
 
-Het doel van concept 1 is het sparen van digitale punten die de gebruiker later kan uitbesteden aan een beloning. Ik heb de beloning niet bepaald, omdat het afhankelijk is van de klant. De gebruiker kan bij een x aantal trappen een x aantal punten krijgen, maar de gebruiker kan ook een x aantal punten krijgen als de gebruiker in de top 3 staat.
+De applicatie kan de trappen tellen van de gebruiker. Elke trap omhoog wordt gemeten door middel van de barometer in de iPhone. 
 
-Door middel van mijn gesprekken met de doelgroep heb ik ervoor gekozen dat het beter is voor de doelgroep om elke week of elke maand opnieuw te kunnen beginnen. Ik heb deze keuze gemaakt, zodat gebruikers die onderaan staan niet gedemotiveerd raken om de trap te nemen. Door elke week of elke maand de score weer op 0 te zetten, krijgt iedereen een eerlijke kans om bovenaan in de rank te staan. 
+#### Hoe werkt de leaderboard?
 
-### Concept 2
+In de applicatie is er een leaderboard waar de gebruikers kunnen zien welke collega's de meeste trappen heeft gelopen. Elke maand wordt de leaderboard data gereset. Er is voor dit gekozen om gebruikers die vaak onderaan in de leaderboard staan, te motiveren om door te blijven gaan met trappen lopen. Lees de product biografie bij hoofdstuk [“..”](www.google.nl) voor toelichting over deze keuze.
 
-In dit concept wilde ik competitie centraal hebben door gamification elementen toe te voegen via augmented reality. De gebruiker kan door middel van AR opzoek gaan naar power-ups die hun zullen helpen om hun collega's te verslaan met trappen lopen. Dit kan onder andere zijn badges die de score van een collega tijdelijk bevriezen of een badge die de gebruiker zal helpen door elk gelopen trap te vermenigvuldigen met 2.
+#### Wat zijn challenges?
 
-Bij dit concept wordt de nadruk niet gelegd op weg gaan van je bureau en bewegen, maar op plezier hebben met je collega's. Uiteraard zal de gebruiker nog steeds weg moeten gaan van hun bureau, omdat ze via AR badges moeten vinden.    
+De gebruikers kunnen collega’s uitdagen door middel van challenges. De challenges in de app zijn wedstrijden tussen collega’s wie het snelst een x aantal trappen kan lopen. De collega die als eerst het doel heeft behaald krijgt punten. Om de gebruikers te blijven motiveren krijgt de tegenstander ook punten maar minder dan de winnaar.  Het doel van de challenges is om collega’s te motiveren door een competitie aan te gaan met hun collega’s. De gebruikers kunnen punten verdienen met de challenges.
 
-### Concept 3
+#### Waarom punten als beloning?
 
-Dit concept draait het om consistent trappen lopen zodat je een plant kan groeien of een gebouw kan bouwen. Bij een x aantal trappen zijn er materialen beschikbaar om je gebouw uit te breiden of plant gerelateerde producten. 
-
-Dit concept is voor gebruikers die graag dingen sparen om een spel uit te breiden. Gebruikers die van avontuur spellen houden zoals Farmville. 
-
-## Definitief concept
-
-Tijdens de feedback frenzy hebben studenten en docenten feedback gegeven op de concepten van Elevate. Deze feedback kunt u terug lezen bij het hoofdstuk ['Feedback Frenzy'](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/feedback-frenzy). Aan de hand van de survey en feedback is er gekozen om concept 1 verder uit te werken. De doelgroep heeft aangegeven dat ze beloond willen worden voor traplopen en dat ze de beloning willen ontvangen door middel van spaarpunten. Dit is een duidelijk antwoord van de doelgroep en om deze reden is ervoor gekozen om concept 1 verder uit te werken. 
-
+Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze beloond willen worden voor het trappen lopen. Zo ja, hoe willen ze beloond worden? De gebruikers hebben aangegeven dat ze willen sparen om beloningen te kunnen kopen. Aan de hand van deze inzichten is ervoor gekozen de gebruikers te belonen met punten die ze kunnen besteden aan beloningen. De gebruikers krijgen punten wanneer ze een challenge voltooien. Zie de product biografie bij hoofdstuk [“..”](www.google.nl) voor de survey.  
 
 

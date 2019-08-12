@@ -10,17 +10,16 @@
 ## Onderzoek
 
 * [Probleemsituatie](onderzoek/interviews.md)
-* [Concurrentieanalyse](onderzoek/concurrentie/README.md)
-  * [Stakeholders](onderzoek/concurrentie/stakeholders.md)
-* [Gebruikers](onderzoek/gebruikersonderzoek/README.md)
-  * [Gedrag observatie](onderzoek/gebruikersonderzoek/gedrag.md)
-  * [Gezondheid](onderzoek/gebruikersonderzoek/gezondheid.md)
+* [Concurrentieanalyse](onderzoek/concurrentie.md)
+* [Gebruikers](onderzoek/gebruikersonderzoek.md)
 
 ## Concept
 
 * [Ideation onderzoek](concept/technologie.md)
-* [Concepten](concept/het-concept.md)
-* [Elevate](concept/elevate.md)
+* [Concept](concept/het-concept.md)
+* [Schetsen](concept/elevate.md)
+* [Lo-fi prototype](concept/lo-fi-prototype.md)
+* [Iteraties](concept/iteraties.md)
 * [Design](concept/design.md)
 * [Validatie](concept/validatie.md)
 
