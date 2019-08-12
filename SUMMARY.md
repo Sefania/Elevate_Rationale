@@ -9,14 +9,14 @@
 
 ## Onderzoek
 
+* [Probleemsituatie](onderzoek/interviews.md)
+* [Concurrentieanalyse](onderzoek/concurrentie.md)
+* [Gedrag observatie](onderzoek/gedrag.md)
 * [Elevate: Huidige situatie](onderzoek/project-elevate.md)
 * [Stakeholders](onderzoek/stakeholders.md)
-* [Field trial](onderzoek/interviews.md)
 * [Gebruikersonderzoek](onderzoek/gebruikersonderzoek.md)
-* [Concurrentieanalyse](onderzoek/concurrentie.md)
 * [Gezondheid](onderzoek/gezondheid.md)
 * [Technologie](onderzoek/technologie.md)
-* [Gedrag](onderzoek/gedrag.md)
 * [Design](onderzoek/design.md)
 
 ## Concept

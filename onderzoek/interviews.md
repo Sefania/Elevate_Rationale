@@ -1,22 +1,32 @@
 ---
-description: >-
-  Een field trial is een methode die gebruikt wordt om een beta versie van een
-  app te testen. Het is een waardevolle methode om eerlijke feedback te krijgen.
+description: In dit hoofdstuk wordt het probleem beschreven.
 ---
 
-# Field trial
+# Probleemsituatie
 
-![](../.gitbook/assets/field-trial-card.png)
+## Probleem
 
- 
 
-Aan het begin van de afstudeerproject is een field trial gestart met een aantal gebruikers uit de doelgroep. Ze werken in een deelpand maar elk persoon werkt voor een ander bedrijf en iedereen heeft een andere functie. In de testgroep is er een office manager, marketing manager, developers en een paar leidinggevende. Er is bewust gekozen om de interviews pas te doen na de field trial, omdat het eerste indruk van de applicatie gemeten moest worden maar ook de ervaring nadat de gebruiker het een tijdje heeft gebruikt. 
 
-De field trial is een periode waar de gebruikers een versie van de applicatie testen. De huidige versie van Elevate was gebouwd maar nooit getest door gebruikers. Een van de doelen van de field trial was om erachter te komen wat de doelgroep vindt van zo'n app, maar nog belangrijker willen ze een app gebruiken die alleen trappen kan meten. 
+## Field trial onderzoek
 
-Uit de interviews kan geconcludeerd worden dat de gebruikers het concept van Elevate erg interessant vinden, maar de huidige app is niet interactief genoeg. Ze vinden het idee dat je met elkaar concurreren wie de meeste trappen kan lopen heel erg geinig. De meeste gebruikers hebben aangegeven best wel competitief te zijn. 
+### Waarom een field trial?
 
-De gebruikers hebben aangegeven dat ze het leuk zouden vinden als ze op de mijlpalen kunnen klikken voor meer informatie. Daarnaast hebben de gebruikers ook aangegeven dat ze een overzicht willen van hun data, zodat ze het kunnen vergelijken met andere dagen. Door deze inzichten is er besloten om deze functies te verwerken in het concept van Elevate. De doelgroep heeft ook aangegeven dat ze minstens 2 keer per week actief bewegen. Dat betekent dat ze gemotiveerder zullen zijn om de trap te nemen. Als u meer wilt lezen over de inzichten van de interviews dan kunt u het vinden in de productbiografie bij het hoofdstuk ['field trial interviews'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/field-trial/field-trial-interviews).
+Een field trial is een methode die gebruikt wordt om een beta versie van een app te testen. De huidige versie van Elevate is gebouwd maar is nog nooit getest bij de gebruikers. Het is een waardevolle methode om eerlijke feedback te krijgen.
 
-\*\*\*\*
+Er is gekozen om een field trial te doen bij een aantal gebruikers om te onderzoeken wat het probleem is. Door de gebruikers de applicatie te laten testen voor een onbepaalde. Vervolgens worden de gebruikers geïnterviewd om erachter te komen of er problemen zijn met de applicatie. Een van de doelen van de field trial was om erachter te komen wat de doelgroep vindt van zo'n app, maar nog belangrijker willen ze een app gebruiken die alleen trappen kan meten.
+
+In de eerste weken is er een field trial gestart met een aantal gebruikers uit de doelgroep. Ze werken in een deel pand maar elk persoon werkt voor een ander bedrijf en iedereen heeft een andere functie. In de testgroep is er een office manager, marketing manager, developers en een paar leidinggevende. Er is gekozen om de interviews pas te doen na de field trial, omdat het eerste indruk van de applicatie gemeten moest worden maar ook de ervaring nadat de gebruiker het een tijdje heeft gebruikt. 
+
+### Inzichten
+
+Uit de interviews kan geconcludeerd worden dat de gebruikers het concept van Elevate erg interessant vinden, maar de huidige app is niet interactief genoeg. Ze reageerden positief op het idee dat ze met collega’s kunnen strijden wie de meeste trappen kan lopen. De meeste gebruikers hebben aangegeven best wel competitief te zijn.
+
+De gebruikers hebben aangegeven dat ze het leuk zouden vinden als ze op de mijlpalen kunnen klikken voor meer informatie. Daarnaast hebben de gebruikers ook aangegeven dat ze een overzicht willen van hun data, zodat ze het kunnen vergelijken met andere dagen. Door deze inzichten is er besloten om deze functies te verwerken in het concept van Elevate. De doelgroep heeft ook aangegeven dat ze minstens 2 keer per week actief bewegen. Dat betekent dat ze gemotiveerder zullen zijn om de trap te nemen. Als u meer wilt lezen over de inzichten van de interviews dan kunt u het vinden in de product biografie bij het hoofdstuk [field trial interviews](https://docs.google.com/document/d/1crajh4U0_hrJ3VCogAzX9ZfiB2BgqQ7Ww-wNEavuoHg/edit#heading=h.vzgwyhksva5s).
+
+#### Wat neem ik mee uit het onderzoek?
+
+* De applicatie moet interactiever voor de gebruiker zoals klikken op de mijlpalen
+* De applicatie moet gamification hebben
+* De applicatie moet meer data weergeven voor de gebruiker
 

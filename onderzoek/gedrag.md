@@ -4,7 +4,7 @@ description: >-
   begrijpen.
 ---
 
-# Gedrag
+# Gedrag observatie
 
 ## **A day in the life**
 
