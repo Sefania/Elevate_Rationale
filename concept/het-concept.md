@@ -24,6 +24,50 @@ De gebruikers kunnen collega’s uitdagen door middel van challenges. De challen
 
 #### Waarom punten als beloning?
 
-Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze beloond willen worden voor het trappen lopen. Zo ja, hoe willen ze beloond worden? De gebruikers hebben aangegeven dat ze willen sparen om beloningen te kunnen kopen. Aan de hand van deze inzichten is ervoor gekozen de gebruikers te belonen met punten die ze kunnen besteden aan beloningen. De gebruikers krijgen punten wanneer ze een challenge voltooien. Zie de product biografie bij hoofdstuk [“..”](www.google.nl) voor de survey.  
+Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze beloond willen worden voor het trappen lopen. Zo ja, hoe willen ze beloond worden? De gebruikers hebben aangegeven dat ze willen sparen om beloningen te kunnen kopen. Aan de hand van deze inzichten is ervoor gekozen de gebruikers te belonen met punten die ze kunnen besteden aan beloningen. De gebruikers krijgen punten wanneer ze een challenge voltooien. Zie de product biografie bij hoofdstuk [“..”](www.google.nl) voor de survey.
+
+#### Toelichting features
+
+**Aanmelden/nieuw account aanmaken**  
+1. De gebruiker kan op dit scherm zich aanmelden met hun werk emailadres  
+2. De gebruiker vult hun naam in en kiest een wachtwoord.  
+3. De gebruiker kiest een profielfoto of maakt een foto met hun camera  
+4. De applicatie stuurt een bevestigingslink via de mail  
+5. De gebruiker kan de app gebruiken zodra hun account bevestigd is
+
+\[AFBEELDING\]
+
+**Graphline en leaderboard**  
+6. De gebruiker kan op een visuele manier zien op welke positie hij/zij staat  
+7. De gebruiker ziet in de leaderboard hoeveel trappen andere collega’s hebben gelopen
+
+\[AFBEELDING\]
+
+**Statistieken**  
+8. De gebruiker ziet hier hun eigen data  
+9. De gebruiker kan zien hoeveel trappen hij/zij gelopen heeft in de afgelopen week
+
+\[AFBEELDING\]
+
+**Challenges**  
+10. De gebruiker kan zien hoeveel challenges hij/zij heeft en met wie  
+11. De gebruiker kan zien wat de voortgang is van de challenge  
+12. De gebruiker kan een nieuwe challenge maken  
+13. De gebruiker moet een doel instellen hoeveel trappen ze willen lopen  
+14. De gebruiker moet een collega kiezen om uit te dagen
+
+\[AFBEELDING\]
+
+**My profile**  
+15. De gebruiker kan op deze scherm naar de winkel gaan om punten te ruilen voor een beloning  
+16. De gebruiker vindt hier een overzicht van alle mijlpalen die ze behaald hebben  
+17. De gebruiker kan de tour heropenen van de applicatie  
+18. De gebruiker kan legale informatie over de app lezen  
+19. De gebruiker kan feedback sturen naar de developers van de app  
+20. De gebruiker kan een collega uitnodigen die nog niet is aangemeld  
+21. De gebruiker kan uitloggen
+
+\[AFBEELDING\]  
+  
 
 
