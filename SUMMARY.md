@@ -11,7 +11,7 @@
 
 * [Probleemsituatie](onderzoek/interviews.md)
 * [Concurrentieanalyse](onderzoek/concurrentie.md)
-* [Gebruikers](onderzoek/gebruikersonderzoek.md)
+* [Doelgroeponderzoek](onderzoek/gebruikersonderzoek.md)
 
 ## Concept
 

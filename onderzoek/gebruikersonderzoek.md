@@ -1,4 +1,4 @@
-# Gebruikers
+# Doelgroeponderzoek
 
 ## A day in the life
 
@@ -21,7 +21,20 @@ De collega’s van de gebruiker zitten ook lang achter hun bureau. Sommige colle
 
 ## Fly on the wall
 
-..
+#### Waarom?
+
+De methode fly on the wall observeert een groep mensen tegelijkertijd voor een korte periode. Dit kan meerdere keren op een dag en hoeft dus niet de hele dag te gebeuren. Belangrijke momenten om de doelgroep te observeren zijn wanneer ze naar kantoor gaan, wanneer ze gaan lunchen en als ze naar een andere verdieping moeten gaan. 
+
+#### Inzichten
+
+Er kan geconcludeerd worden dat een team dat elkaar motiveert om na de lunch te gaan wandelen en samen bewust is van het feit dat ze te veel zitten, sneller geneigd zijn om de trap te nemen. Wanneer er collega's zijn die er soms geen zin in hebben om de trap te nemen, zijn er collega's die anderen proberen te motiveren om de trap te nemen. Door de groepsdruk geven sommige collega's in en nemen ze dan toch de trap in plaats van de lift. Voor verdere toelichting over de inzichten verwijs ik u naar de product biografie bij het hoofdstuk[ 'fly on the wall'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/fly-on-the-wall).
+
+#### Wat neem ik mee uit het onderzoek?
+
+* Doelgroep is beïnvloedbaar onder groepsdruk 
+* Bewustzijn creëren bij de doelgroep is belangrijk
+* Een team die elkaar motiveert speelt een grote rol bij trappen lopen of lift nemen
+* Team doet vaak dingen samen zoals roken en wandelen
 
 ## Empathy map
 
