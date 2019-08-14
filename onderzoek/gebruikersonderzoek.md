@@ -38,7 +38,16 @@ Er kan geconcludeerd worden dat een team dat elkaar motiveert om na de lunch te 
 
 ## Empathy map
 
-..
+#### Waarom?
+
+De Empathy map is een methode die wordt gebruikt om de gebruiker beter te begrijpen. Dit creëert een overzicht over de wensen en behoeftes van de gebruiker. De Empathy map is gebaseerd op de mensen in een kantoor en op de campus. Deze doelgroep is gekozen, omdat het mensen zijn die heel lang zitten. Deze mensen werden geobserveerd in hun natuurlijke omgeving.
+
+#### Inzichten
+
+Aan de doelgroep werd gevraagd of ze de trap nemen of de lift en waarom? Uit de antwoorden van de doelgroep kan geconcludeerd worden dat de lift nemen makkelijker is. Als de trappenhuis verborgen is, dan kiezen de meeste mensen om de lift te nemen.
+
+Uit de gesprekken kan ook geconcludeerd worden dat mensen voor 1 of 2 verdiepingen het niet erg vinden om de trap te nemen, maar als het meer dan 2 verdiepingen zijn dan nemen ze liever de lift. In de Empathy map ziet u een beknopte overzicht van de meest interessante bevindingen. Hier kunt u ook een paar quotes lezen van de mensen met wie een gesprek is gevoerd.  
+
 
 ## Customer Journey Map
 
