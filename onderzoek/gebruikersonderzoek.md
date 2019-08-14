@@ -2,8 +2,6 @@
 
 ## A day in the life
 
-
-
 #### Waarom a day in the life?
 
 A day in the life is een methode waarbij een gebruiker de hele dag wordt geobserveerd. Er is gekozen om dit te doen zodat geobserveerd kan worden hoe de gebruiker zich gedraagt in hun normale omgeving.
