@@ -51,5 +51,21 @@ Uit de gesprekken kan ook geconcludeerd worden dat mensen voor 1 of 2 verdieping
 
 ## Customer Journey Map
 
-..
+#### Waarom?
+
+De Customer Journey Map is een methode die wordt gebruikt om de journey van de gebruiker in kaart te brengen. Dit creëert een overzicht van alles wat de doelgroep doet en denkt zoals de pijnpunten, gedachtes, touchpoints en kansen. De CJM is gebaseerd op de ervaringen van de doelgroep tijdens de Field trial. Zie afbeelding \[\#\] voor de CJM.  
+
+
+#### Inzichten
+
+Zoals u kunt zien op afbeelding \[\#\] verlopen de eerste stappen van de applicatie naar wens. Het gaat mis wanneer de gebruiker het gevoel heeft dat er geen uitdaging meer is. De gebruiker mist een stukje interactie in de app. Dit heeft de doelgroep ook aangegeven in de interviews, dit kunt u lezen in de product biografie bij het hoofdstuk[ 'field trial interviews'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/field-trial/field-trial-interviews).
+
+Deze inzichten bieden kansen zoals challenges toevoegen in de app waardoor de app meerwaarde krijgt voor de gebruiker en het uit kunnen dagen van collega's. Daarnaast moet de applicatie meer interactief zijn door sommige dingen zoals de mijlpalen klikbaar te maken en meer informatie te geven over de mijlpalen. Dit is gebaseerd op de suggesties van de doelgroep, waar bovenaan al aangegeven is dat het uit de interviews is gehaald.
+
+#### Wat neem ik mee hieruit?
+
+* De gebruikers willen uitgedaagd worden
+* De gebruikers willen meer interactie in de applicatie
+* De huidige app van Elevate voldoet niet aan de behoeftes van de doelgroep
+* De gebruiker wilt meer informatie lezen in de app
 
