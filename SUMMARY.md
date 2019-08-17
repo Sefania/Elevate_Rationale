@@ -5,7 +5,7 @@
 ## Inleiding
 
 * [Begrippenlijst](inleiding/begrippenlijst.md)
-* [Inleiding](inleiding/inleiding.md)
+* [Aanleiding](inleiding/inleiding.md)
 
 ## Onderzoek
 
@@ -17,7 +17,6 @@
 
 * [Ideation onderzoek](concept/technologie.md)
 * [Concept](concept/het-concept.md)
-* [Schetsen](concept/elevate.md)
 * [Lo-fi prototype](concept/lo-fi-prototype.md)
 * [Iteraties](concept/iteraties.md)
 * [Design](concept/design.md)

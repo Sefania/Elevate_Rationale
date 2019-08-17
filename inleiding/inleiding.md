@@ -5,7 +5,7 @@ description: >-
   mijn design challenge.
 ---
 
-# Inleiding
+# Aanleiding
 
 ## Aanleiding project
 

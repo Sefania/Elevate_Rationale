@@ -35,19 +35,19 @@ Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze be
 4. De applicatie stuurt een bevestigingslink via de mail  
 5. De gebruiker kan de app gebruiken zodra hun account bevestigd is
 
-\[AFBEELDING\]
+\[HIER KOMT EEN AFBEELDING\]
 
 **Graphline en leaderboard**  
 6. De gebruiker kan op een visuele manier zien op welke positie hij/zij staat  
 7. De gebruiker ziet in de leaderboard hoeveel trappen andere collega’s hebben gelopen
 
-\[AFBEELDING\]
+\[HIER KOMT EEN AFBEELDING\]
 
 **Statistieken**  
 8. De gebruiker ziet hier hun eigen data  
 9. De gebruiker kan zien hoeveel trappen hij/zij gelopen heeft in de afgelopen week
 
-\[AFBEELDING\]
+\[HIER KOMT EEN AFBEELDING\]
 
 **Challenges**  
 10. De gebruiker kan zien hoeveel challenges hij/zij heeft en met wie  
@@ -56,7 +56,7 @@ Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze be
 13. De gebruiker moet een doel instellen hoeveel trappen ze willen lopen  
 14. De gebruiker moet een collega kiezen om uit te dagen
 
-\[AFBEELDING\]
+\[HIER KOMT EEN AFBEELDING\]
 
 **My profile**  
 15. De gebruiker kan op deze scherm naar de winkel gaan om punten te ruilen voor een beloning  
@@ -67,7 +67,8 @@ Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze be
 20. De gebruiker kan een collega uitnodigen die nog niet is aangemeld  
 21. De gebruiker kan uitloggen
 
-\[AFBEELDING\]  
+\[HIER KOMT EEN AFBEELDING\]
+
   
 
 

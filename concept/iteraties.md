@@ -1,4 +1,4 @@
 # Iteraties
 
-\[afbeelding\]
+\[Hier komen afbeeldingen\]
 
