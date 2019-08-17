@@ -4,8 +4,6 @@ description: Hier leest u wat het concept van Elevate is geworden.
 
 # Concept
 
-Elevate is een applicatie die gebruikers zal motiveren om vaker de trap te nemen. Het doel van de app is om de werknemers meer te laten bewegen tijdens werk. Meer bewegen tijdens werk heeft voordelen voor de gebruiker, omdat hun gezondheid verbeterd. De werkgever heeft hier ook baat bij, omdat werknemers die gezonder zijn minder vaak ziek zullen zijn.
-
 #### Wie is de gebruiker?
 
 De applicatie is voor werknemers die op kantoor werken en meer dan 8 uur per dag zitten achter hun bureau. 

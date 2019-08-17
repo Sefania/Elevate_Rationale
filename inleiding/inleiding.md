@@ -15,6 +15,10 @@ description: >-
 
 Ik besefte door mijn onderzoek dat ik in de toekomst ook een kantoorbaan zal hebben waarbij ik veel achter mijn bureau zal zitten. Ik schrok ervan toen ik erachter kwam dat wij Nederlanders te veel zitten en wat de gevolgen hiervan zijn. Dit is mijn motivatie geweest om onderzoek te doen naar dit probleem en een oplossing ervoor te bedenken. Ik zal dit onderzoek doen bij mobiele bureau Touchwonders.
 
+### Wat is Elevate?
+
+Elevate is een applicatie die gebruikers zal motiveren om vaker de trap te nemen. Het doel van de app is om de werknemers meer te laten bewegen tijdens werk. Meer bewegen tijdens werk heeft voordelen voor de gebruiker, omdat hun gezondheid verbeterd. De werkgever heeft hier ook baat bij, omdat werknemers die gezonder zijn minder vaak ziek zullen zijn.
+
 ## De Design Challenge
 
 Hoe kan een digitale oplossing voor kantoormedewerkers, die meer dan 8 uur per dag zitten, helpen om op een interactieve en laagdrempelige manier te bewegen tijdens kantooruren door middel van gamification?
