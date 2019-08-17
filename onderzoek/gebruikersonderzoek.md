@@ -46,15 +46,17 @@ De Empathy map is een methode die wordt gebruikt om de gebruiker beter te begrij
 
 Aan de doelgroep werd gevraagd of ze de trap nemen of de lift en waarom? Uit de antwoorden van de doelgroep kan geconcludeerd worden dat de lift nemen makkelijker is. Als de trappenhuis verborgen is, dan kiezen de meeste mensen om de lift te nemen.
 
-Uit de gesprekken kan ook geconcludeerd worden dat mensen voor 1 of 2 verdiepingen het niet erg vinden om de trap te nemen, maar als het meer dan 2 verdiepingen zijn dan nemen ze liever de lift. In de Empathy map ziet u een beknopte overzicht van de meest interessante bevindingen. Hier kunt u ook een paar quotes lezen van de mensen met wie een gesprek is gevoerd.  
+Uit de gesprekken kan ook geconcludeerd worden dat mensen voor 1 of 2 verdiepingen het niet erg vinden om de trap te nemen, maar als het meer dan 2 verdiepingen zijn dan nemen ze liever de lift. In de Empathy map ziet u een beknopte overzicht van de meest interessante bevindingen. Hier kunt u ook een paar quotes lezen van de mensen met wie een gesprek is gevoerd.
 
+![](../.gitbook/assets/empathy-map-1.0.png)
 
 ## Customer Journey Map
 
 #### Waarom?
 
-De Customer Journey Map is een methode die wordt gebruikt om de journey van de gebruiker in kaart te brengen. Dit creëert een overzicht van alles wat de doelgroep doet en denkt zoals de pijnpunten, gedachtes, touchpoints en kansen. De CJM is gebaseerd op de ervaringen van de doelgroep tijdens de Field trial. Zie afbeelding \[\#\] voor de CJM.  
+De Customer Journey Map is een methode die wordt gebruikt om de journey van de gebruiker in kaart te brengen. Dit creëert een overzicht van alles wat de doelgroep doet en denkt zoals de pijnpunten, gedachtes, touchpoints en kansen. De CJM is gebaseerd op de ervaringen van de doelgroep tijdens de Field trial. Zie afbeelding \[\#\] voor de CJM.
 
+![](../.gitbook/assets/cjm-elevate-1.0.png)
 
 #### Inzichten
 

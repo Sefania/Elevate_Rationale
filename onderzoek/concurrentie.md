@@ -4,7 +4,7 @@
 
 Om de stakeholders van Elevate te weergeven is er een Stakeholders map gemaakt. Deze methode wordt gebruikt om op een inzichtelijke manier te visualiseren wie de belangrijkste stakeholders zijn. Via de map wordt weergeven wie de directe en indirecte stakeholders zijn. Directe stakeholders zijn stakeholders die direct met het product te maken hebben. De indirecte stakeholders zijn stakeholders waar rekening mee gehouden moet worden, maar zijn niet belangrijk genoeg om keuzes te laten beïnvloeden.
 
-\[AFBEELDING\]
+![](../.gitbook/assets/stakeholder-map-3.0.png)
 
 Touchwonders is een van de stakeholders van Elevate. Zij zijn de ontwikkelaars en opdrachtgever en een van de belangrijkste stakeholders, omdat zij verantwoordelijk zijn voor de applicatie. Touchwonders is in dezelfde cirkel als Elevate, omdat Elevate een product is van Touchwonders.
 
@@ -22,7 +22,7 @@ De doelgroep is specifieker gemaakt door te focussen op kantoormedewerkers, die 
 
 #### Persona gebruiker
 
-\[AFBEELDING\]
+![](../.gitbook/assets/persona-gebruiker.png)
 
 ‌De persona van de gebruiker heet Rin en ze is 30 jaar oud. Ze werkt als een designer bij een agency in Amsterdam. Elk project waar ze aan werkt heeft een deadline waar ze zich aan moet houden. Ze wilt graag meer actief zijn maar heeft na haar werk geen tijd om te sporten, omdat ze boodschappen moet doen en thuis zelf moet koken. Rin kan goed gebruik maken van Elevate, omdat het een laagdrempelige manier is van bewegen tijdens kantooruren en dit zal niet in de weg staan van haar werk.‌
 
@@ -46,7 +46,7 @@ Deze methode helpt om te bepalen welke functies het beste passen bij de behoefte
 
 Om het concurrentieonderzoek goed in kaart te brengen is er een matrix gemaakt om te weergeven op welke positie Elevate staat in tegenstelling tot de concurrenten. In de matrix ziet u de meeteenheden 'interactief', 'minimale interactie', 'motiveert de gebruiker' en 'uitdagend'. Deze eenheden zijn gekozen nadat de concurrenten zijn geanalyseerd. Uit de analyse is gekomen dat de concurrenten allemaal hun best doen om hun gebruikers te motiveren op een interactieve manier.
 
-\[AFBEELDING\]
+![](../.gitbook/assets/best-good-and-bad-practices.png)
 
 Zoals u in afbeelding \[\#\] kunt zien staat Elevate heel erg laag samen met een app die gemaakt is alleen voor het weergeven van data. Pedometer++ is een app die kan meten hoeveel stappen en trappen een gebruiker heeft gelopen. In vergelijking met andere concurrenten die wel hun gebruikers stimuleren om vaker te bewegen, staat Elevate op dezelfde plek als een applicatie die niet als doel heeft om de gebruikers op een interactieve manier te stimuleren. 
 
