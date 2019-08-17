@@ -1,4 +1,6 @@
 # Lo-fi prototype
 
-\[Afbeelding\]
+
+
+![](../.gitbook/assets/leaderboard.png)
 
