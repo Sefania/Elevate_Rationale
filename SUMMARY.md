@@ -16,8 +16,8 @@
 ## Concept
 
 * [Ideation onderzoek](concept/technologie.md)
-* [Concept](concept/het-concept.md)
 * [Lo-fi prototype](concept/lo-fi-prototype.md)
+* [Concept](concept/het-concept.md)
 * [Iteraties](concept/iteraties.md)
 * [Design](concept/design.md)
 * [Validatie](concept/validatie.md)
