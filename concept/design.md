@@ -4,7 +4,7 @@
 
 De kleuren van Elevate zijn tijdens de pilot al bepaald door de designer van Touchwonders. In de onderstaande afbeelding ziet u de huisstijl kleuren. 
 
-![Afbeelding 7](../.gitbook/assets/screenshot-2019-05-31-at-15.21.40.png)
+![Afbeelding 20](../.gitbook/assets/screenshot-2019-05-31-at-15.21.40.png)
 
 #### Font style
 

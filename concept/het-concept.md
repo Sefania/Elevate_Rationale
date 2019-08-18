@@ -31,32 +31,32 @@ In de product biografie vindt u de [brainstorm sessie](https://s-sontoidjojo.git
 4. De applicatie stuurt een bevestigingslink via de mail  
 5. De gebruiker kan de app gebruiken zodra hun account bevestigd is
 
-![](../.gitbook/assets/whatsapp-image-2019-08-18-at-15.44.28.jpeg)
+![Afbeelding 10](../.gitbook/assets/whatsapp-image-2019-08-18-at-15.44.28.jpeg)
 
 **Graphline en leaderboard**  
 6. De gebruiker kan op een visuele manier zien op welke positie hij/zij staat  
 7. De gebruiker ziet in de leaderboard hoeveel trappen andere collega’s hebben gelopen
 
-![](../.gitbook/assets/1.-leaderboard-xs-size.png)
+![Afbeelding 11](../.gitbook/assets/1.-leaderboard-xs-size.png)
 
 **Statistieken**  
 8. De gebruiker ziet hier hun eigen data  
 9. De gebruiker kan zien hoeveel trappen ij/zij gelopen heeft in de afgelopen week
 
-![](../.gitbook/assets/2.-statistieken.png)
+![Afbeelding 12](../.gitbook/assets/2.-statistieken.png)
 
 **Challenges**  
 10. De gebruiker kan zien hoeveel challenges hij/zij heeft en met wie  
 11. De gebruiker kan zien wat de voortgang is van de challenge
 
-![](../.gitbook/assets/3.-challenges.png)
+![Afbeelding 13](../.gitbook/assets/3.-challenges.png)
 
 **Nieuwe challenge aanmaken**  
 12. De gebruiker kan een nieuwe challenge maken  
 13. De gebruiker moet een doel instellen hoeveel trappen ze willen lopen  
 14. De gebruiker moet een collega kiezen om uit te dagen
 
-![](../.gitbook/assets/4.1-new-challenge-copy.png)
+![Afbeelding 14](../.gitbook/assets/4.1-new-challenge-copy.png)
 
 **My profile**  
 15. De gebruiker kan op deze scherm naar de winkel gaan om punten te ruilen voor een beloning  
@@ -67,7 +67,7 @@ In de product biografie vindt u de [brainstorm sessie](https://s-sontoidjojo.git
 20. De gebruiker kan een collega uitnodigen die nog niet is aangemeld  
 21. De gebruiker kan uitloggen
 
-![](../.gitbook/assets/8.-my-profile.png)
+![Afbeelding 15](../.gitbook/assets/8.-my-profile.png)
 
   
 

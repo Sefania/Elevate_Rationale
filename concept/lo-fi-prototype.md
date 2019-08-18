@@ -12,11 +12,11 @@ De doelgroep vindt het leuk dat ze met collega's een wedstrijdje kunnen houden. 
 * De doelgroep vindt het leuk om te sparen voor een beloning
 * De doelgroep denkt dat sommige collega's heel fanatiek zullen zijn met trappen lopen
 
-![](../.gitbook/assets/statistiek.png)
+![Afbeelding 6](../.gitbook/assets/statistiek.png)
 
-![](../.gitbook/assets/challenge.png)
+![Afbeelding 7](../.gitbook/assets/challenge.png)
 
-![](../.gitbook/assets/modal-view.png)
+![Afbeelding 8](../.gitbook/assets/modal-view.png)
 
-![](../.gitbook/assets/punten-overzicht.png)
+![Afbeelding 9](../.gitbook/assets/punten-overzicht.png)
 
