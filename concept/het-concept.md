@@ -33,7 +33,7 @@ Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze be
 4. De applicatie stuurt een bevestigingslink via de mail  
 5. De gebruiker kan de app gebruiken zodra hun account bevestigd is
 
-\[HIER KOMT EEN AFBEELDING\]
+![](../.gitbook/assets/whatsapp-image-2019-08-18-at-15.44.28.jpeg)
 
 **Graphline en leaderboard**  
 6. De gebruiker kan op een visuele manier zien op welke positie hij/zij staat  
