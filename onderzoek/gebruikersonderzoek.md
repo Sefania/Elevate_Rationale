@@ -10,7 +10,7 @@ A day in the life is een methode waarbij een gebruiker de hele dag wordt geobser
 
 Uit het onderzoek 'A day in the life' kan geconcludeerd worden dat de gebruiker die gevolgd werd het moeilijk vind om over de drempel te stappen richting een gezonder leven. De persoon die gevolgd werd is een roker en zit lang achter een bureau. De gebruiker is heel snel buiten adem als ze twee verdiepingen omhoog moet. De gebruiker neemt liever de lift, omdat dit minder energie kost voor haar. Maar wanneer ze aangemoedigd wordt om de trap te nemen dan gaat ze ook mee om de trap te nemen.
 
-De collega’s van de gebruiker zitten ook lang achter hun bureau. Sommige collega’s waren wel de hele tijd heen en weer aan het lopen, omdat het onderdeel was van hun dagelijkse taken. Maar ook die collega’s namen de lift omhoog. Voor verdere toelichting van mijn onderzoek verwijs ik u naar de product biografie bij het hoofdstuk[ 'a day in the life'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/a-day-in-the-life).
+De collega’s van de gebruiker zitten ook lang achter hun bureau. Sommige collega’s waren wel de hele tijd heen en weer aan het lopen, omdat het onderdeel was van hun dagelijkse taken. Maar ook die collega’s namen de lift omhoog. Voor verdere toelichting van mijn onderzoek verwijs ik u naar de product biografie bij het hoofdstuk[ 'a day in the life'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/a-day-in-the-life/persoon-1).
 
 #### Wat neem ik mee?
 
@@ -46,7 +46,7 @@ De Empathy map is een methode die wordt gebruikt om de gebruiker beter te begrij
 
 Aan de doelgroep werd gevraagd of ze de trap nemen of de lift en waarom? Uit de antwoorden van de doelgroep kan geconcludeerd worden dat de lift nemen makkelijker is. Als de trappenhuis verborgen is, dan kiezen de meeste mensen om de lift te nemen.
 
-Uit de gesprekken kan ook geconcludeerd worden dat mensen voor 1 of 2 verdiepingen het niet erg vinden om de trap te nemen, maar als het meer dan 2 verdiepingen zijn dan nemen ze liever de lift. In de Empathy map ziet u een beknopte overzicht van de meest interessante bevindingen. Hier kunt u ook een paar quotes lezen van de mensen met wie een gesprek is gevoerd.
+Uit de gesprekken kan ook geconcludeerd worden dat mensen voor 1 of 2 verdiepingen het niet erg vinden om de trap te nemen, maar als het meer dan 2 verdiepingen zijn dan nemen ze liever de lift. In de Empathy map ziet u een beknopte overzicht van de meest interessante bevindingen. Zie de product biografie bij hoofdstuk [Empathy map](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/empathy-map).
 
 ![](../.gitbook/assets/empathy-map-1.0.png)
 

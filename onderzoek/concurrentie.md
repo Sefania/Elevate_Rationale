@@ -26,7 +26,7 @@ De doelgroep is specifieker gemaakt door te focussen op kantoormedewerkers, die 
 
 ‌De persona van de gebruiker heet Rin en ze is 30 jaar oud. Ze werkt als een designer bij een agency in Amsterdam. Elk project waar ze aan werkt heeft een deadline waar ze zich aan moet houden. Ze wilt graag meer actief zijn maar heeft na haar werk geen tijd om te sporten, omdat ze boodschappen moet doen en thuis zelf moet koken. Rin kan goed gebruik maken van Elevate, omdat het een laagdrempelige manier is van bewegen tijdens kantooruren en dit zal niet in de weg staan van haar werk.‌
 
-Persona's van andere stakeholders kunt u vinden in de product biografie bij het hoofdstuk ['Persona'](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/persona).  
+Persona's van andere stakeholders kunt u vinden in de product biografie bij het hoofdstuk '[Persona](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/gedrag-onderzoek/persona)'.  
 
 
 ## Best, good and bad practices
@@ -35,7 +35,7 @@ Persona's van andere stakeholders kunt u vinden in de product biografie bij het 
 
 Dit is een methode dat wordt gebruikt om concurrenten te analyseren. Deze methode kan de sterke punten van de concurrenten in kaart brengen.
 
-Deze methode helpt om te bepalen welke functies het beste passen bij de behoeftes van de gebruikers. Deze onderzoeksmethode is uitgevoerd door deskresearch te doen naar de concurrenten. Er een matrix gemaakt om te visualiseren waar Elevate staat in vergelijking met de concurrenten. In de product biografie bij hoofdstuk ‘..’ kunt u meer informatie vinden over de analyse. 
+Deze methode helpt om te bepalen welke functies het beste passen bij de behoeftes van de gebruikers. Deze onderzoeksmethode is uitgevoerd door deskresearch te doen naar de concurrenten. Er een matrix gemaakt om te visualiseren waar Elevate staat in vergelijking met de concurrenten. In de product biografie bij hoofdstuk ‘[Concurrentie onderzoek](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/onderzoeksmethodes/best-good-and-bad-practices)’ kunt u meer informatie vinden over de analyse. 
 
 #### Inzichten
 

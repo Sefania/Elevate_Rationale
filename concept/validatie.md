@@ -10,7 +10,7 @@ Uit de gesprekken met de doelgroep kan geconcludeerd worden dat ze het een aantr
 
 ## Usability test
 
-De usability van het prototype werd getest in de usability lab van CMD Amsterdam. Er is hiervoor gekozen, omdat het lab de juiste software en materialen heeft om dit onderzoek uit te voeren. 11 gebruikers hebben de prototype getest en feedback gegeven op de prototype. Voor de inzichten van de usability test verwijs ik u naar de productbiografie bij  het hoofdstuk ['valideren'](https://s-sontoidjojo.gitbook.io/productbiografie/prototype-and-test/valideren).
+De usability van het prototype werd getest in de usability lab van CMD Amsterdam. Er is hiervoor gekozen, omdat het lab de juiste software en materialen heeft om dit onderzoek uit te voeren. 11 gebruikers hebben de prototype getest en feedback gegeven op de prototype. Voor de inzichten van de usability test verwijs ik u naar de productbiografie bij  het hoofdstuk ['valideren'](https://s-sontoidjojo.gitbook.io/productbiografie/prototype-and-test/valideren). Hier vindt u de [heatmaps](https://s-sontoidjojo.gitbook.io/productbiografie/prototype-and-test/valideren/heatmaps) en [gazeplots](https://s-sontoidjojo.gitbook.io/productbiografie/prototype-and-test/valideren/gazeplots) uit het onderzoek.
 
 ### Inzichten
 

@@ -10,7 +10,7 @@ De applicatie kan de trappen tellen van de gebruiker. Elke trap omhoog wordt gem
 
 #### Hoe werkt de leaderboard?
 
-In de applicatie is er een leaderboard waar de gebruikers kunnen zien welke collega's de meeste trappen heeft gelopen. Elke maand wordt de leaderboard data gereset. Er is voor dit gekozen om gebruikers die vaak onderaan in de leaderboard staan, te motiveren om door te blijven gaan met trappen lopen. Lees de product biografie bij hoofdstuk [“..”](www.google.nl) voor toelichting over deze keuze.
+In de applicatie is er een leaderboard waar de gebruikers kunnen zien welke collega's de meeste trappen heeft gelopen. Elke maand wordt de leaderboard data gereset. Er is voor dit gekozen om gebruikers die vaak onderaan in de leaderboard staan, te motiveren om door te blijven gaan met trappen lopen. 
 
 #### Wat zijn challenges?
 
@@ -18,7 +18,9 @@ De gebruikers kunnen collega’s uitdagen door middel van challenges. De challen
 
 #### Waarom punten als beloning?
 
-Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze beloond willen worden voor het trappen lopen. Zo ja, hoe willen ze beloond worden? De gebruikers hebben aangegeven dat ze willen sparen om beloningen te kunnen kopen. Aan de hand van deze inzichten is ervoor gekozen de gebruikers te belonen met punten die ze kunnen besteden aan beloningen. De gebruikers krijgen punten wanneer ze een challenge voltooien. Zie de product biografie bij hoofdstuk [“..”](www.google.nl) voor de survey.
+Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze beloond willen worden voor het trappen lopen. Zo ja, hoe willen ze beloond worden? De gebruikers hebben aangegeven dat ze willen sparen om beloningen te kunnen kopen. Aan de hand van deze inzichten is ervoor gekozen de gebruikers te belonen met punten die ze kunnen besteden aan beloningen. De gebruikers krijgen punten wanneer ze een challenge voltooien. Zie de product biografie bij hoofdstuk [“survey”](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/survey) voor de survey.
+
+In de productbiografie vindt u de [brainstorm sessie](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/concepten), [schetsen](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/schetsen) en [feedback](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/feedback-frenzy) op mijn overige concepten.
 
 ## Toelichting features
 
