@@ -25,6 +25,8 @@ In de product biografie vindt u de [brainstorm sessie](https://s-sontoidjojo.git
 **Link naar het prototype**  
 _Invision:_ [_https://invis.io/RHTI84ACVQG_](https://invis.io/RHTI84ACVQG) __
 
+{% file src="../.gitbook/assets/rpreplay\_final1566157575.MP4" caption="Video registratie " %}
+
 ## Toelichting features
 
 **Aanmelden/nieuw account aanmaken**  
