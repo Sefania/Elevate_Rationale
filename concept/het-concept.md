@@ -22,9 +22,8 @@ Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze be
 
 In de product biografie vindt u de [brainstorm sessie](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/concepten), [schetsen](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/schetsen) en [feedback](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/feedback-frenzy) op mijn overige concepten. In de product biografie vindt u ook de [programma van eisen](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/programma-van-eisen). 
 
-**Links naar het prototype**  
-_Invision:   
-Video:_
+**Link naar het prototype**  
+_Invision:_ [_https://invis.io/RHTI84ACVQG_](https://invis.io/RHTI84ACVQG) __
 
 ## Toelichting features
 
