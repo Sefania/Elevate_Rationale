@@ -1,5 +1,9 @@
 # Doelgroeponderzoek
 
+## Doelgroep
+
+Om de doelgroep beter te begrijpen zijn er verschillende soorten onderzoek gedaan naar hun. Waaronder ook literatuur onderzoek, dit kunt u lezen in de product biografie bij hoofdstuk [Onderzoeksvragen: gezondheid](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/literatuur-onderzoek/gezondheid-onderzoek/onderzoeksvragen-gezondheid).
+
 ## A day in the life
 
 #### Waarom a day in the life?

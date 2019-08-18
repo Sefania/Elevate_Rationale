@@ -28,3 +28,5 @@ De gebruikers hebben aangegeven dat ze het leuk zouden vinden als ze op de mijlp
 * De applicatie moet gamification hebben
 * De applicatie moet meer data weergeven voor de gebruiker
 
+
+

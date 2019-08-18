@@ -20,7 +20,7 @@ De gebruikers kunnen collega’s uitdagen door middel van challenges. De challen
 
 Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze beloond willen worden voor het trappen lopen. Zo ja, hoe willen ze beloond worden? De gebruikers hebben aangegeven dat ze willen sparen om beloningen te kunnen kopen. Aan de hand van deze inzichten is ervoor gekozen de gebruikers te belonen met punten die ze kunnen besteden aan beloningen. De gebruikers krijgen punten wanneer ze een challenge voltooien. Zie de product biografie bij hoofdstuk [“survey”](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/survey) voor de survey.
 
-In de productbiografie vindt u de [brainstorm sessie](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/concepten), [schetsen](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/schetsen) en [feedback](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/feedback-frenzy) op mijn overige concepten.
+In de product biografie vindt u de [brainstorm sessie](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/concepten), [schetsen](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/schetsen) en [feedback](https://s-sontoidjojo.gitbook.io/productbiografie/frame-problem-and-ideate/feedback-frenzy) op mijn overige concepten. In de product biografie vindt u ook de [programma van eisen](https://s-sontoidjojo.gitbook.io/productbiografie/understand-and-empathize/programma-van-eisen). 
 
 ## Toelichting features
 
