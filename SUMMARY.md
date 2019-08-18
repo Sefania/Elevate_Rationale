@@ -19,9 +19,9 @@
 * [Ideation](concept/technologie.md)
 * [Lo-fi prototype](concept/lo-fi-prototype.md)
 * [Concept](concept/het-concept.md)
+* [Validatie](concept/validatie.md)
 * [Iteraties](concept/iteraties.md)
 * [Design](concept/design.md)
-* [Validatie](concept/validatie.md)
 
 ## Conclusie
 
