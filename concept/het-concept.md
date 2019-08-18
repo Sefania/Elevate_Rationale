@@ -39,11 +39,11 @@ Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze be
 6. De gebruiker kan op een visuele manier zien op welke positie hij/zij staat  
 7. De gebruiker ziet in de leaderboard hoeveel trappen andere collega’s hebben gelopen
 
-\[HIER KOMT EEN AFBEELDING\]
+![](../.gitbook/assets/1.-leaderboard-xs-size.png)
 
 **Statistieken**  
 8. De gebruiker ziet hier hun eigen data  
-9. De gebruiker kan zien hoeveel trappen hij/zij gelopen heeft in de afgelopen week
+9. De gebruiker kan zien hoeveel trappen ij/zij gelopen heeft in de afgelopen week
 
 ![](../.gitbook/assets/2.-statistieken.png)
 
