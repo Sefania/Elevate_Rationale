@@ -1,7 +1,3 @@
----
-description: In dit hoofdstuk wordt het probleem beschreven.
----
-
 # Probleemsituatie
 
 ## Probleem

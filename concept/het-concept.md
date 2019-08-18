@@ -1,7 +1,3 @@
----
-description: Hier leest u wat het concept van Elevate is geworden.
----
-
 # Concept
 
 #### Wie is de gebruiker?

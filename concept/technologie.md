@@ -1,9 +1,3 @@
----
-description: >-
-  In dit hoofdstuk leest u mijn bevindingen over de verschillende technologieën
-  die ik heb onderzocht.
----
-
 # Ideation
 
 ## Voorbereiding
