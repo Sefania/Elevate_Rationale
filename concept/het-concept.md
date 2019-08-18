@@ -24,7 +24,7 @@ De gebruikers kunnen collega’s uitdagen door middel van challenges. De challen
 
 Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze beloond willen worden voor het trappen lopen. Zo ja, hoe willen ze beloond worden? De gebruikers hebben aangegeven dat ze willen sparen om beloningen te kunnen kopen. Aan de hand van deze inzichten is ervoor gekozen de gebruikers te belonen met punten die ze kunnen besteden aan beloningen. De gebruikers krijgen punten wanneer ze een challenge voltooien. Zie de product biografie bij hoofdstuk [“..”](www.google.nl) voor de survey.
 
-#### Toelichting features
+## Toelichting features
 
 **Aanmelden/nieuw account aanmaken**  
 1. De gebruiker kan op dit scherm zich aanmelden met hun werk emailadres  
@@ -45,16 +45,20 @@ Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze be
 8. De gebruiker ziet hier hun eigen data  
 9. De gebruiker kan zien hoeveel trappen hij/zij gelopen heeft in de afgelopen week
 
-\[HIER KOMT EEN AFBEELDING\]
+![](../.gitbook/assets/2.-statistieken.png)
 
 **Challenges**  
 10. De gebruiker kan zien hoeveel challenges hij/zij heeft en met wie  
-11. De gebruiker kan zien wat de voortgang is van de challenge  
+11. De gebruiker kan zien wat de voortgang is van de challenge
+
+![](../.gitbook/assets/3.-challenges.png)
+
+**Nieuwe challenge aanmaken**  
 12. De gebruiker kan een nieuwe challenge maken  
 13. De gebruiker moet een doel instellen hoeveel trappen ze willen lopen  
 14. De gebruiker moet een collega kiezen om uit te dagen
 
-\[HIER KOMT EEN AFBEELDING\]
+![](../.gitbook/assets/4.1-new-challenge-copy.png)
 
 **My profile**  
 15. De gebruiker kan op deze scherm naar de winkel gaan om punten te ruilen voor een beloning  
@@ -65,7 +69,7 @@ Er is een survey afgenomen onder de doelgroep en er is aan hun gevraagd of ze be
 20. De gebruiker kan een collega uitnodigen die nog niet is aangemeld  
 21. De gebruiker kan uitloggen
 
-\[HIER KOMT EEN AFBEELDING\]
+![](../.gitbook/assets/8.-my-profile.png)
 
   
 
